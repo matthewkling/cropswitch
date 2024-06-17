@@ -1,0 +1,37 @@
+switch,mode,margin,stat,p
+switch,crop discontinuation,user's accuracy,mean,0.8589773168713789
+switch,crop discontinuation,producer's accuracy,mean,0.8024358901463704
+switch,crop introduction,user's accuracy,mean,0.8655144577045966
+switch,crop introduction,producer's accuracy,mean,0.8203050438229222
+no switch,crop discontinuation,user's accuracy,mean,0.9423939670707406
+no switch,crop discontinuation,producer's accuracy,mean,0.9282183668410486
+no switch,crop introduction,user's accuracy,mean,0.9421463003328054
+no switch,crop introduction,producer's accuracy,mean,0.9280116838846707
+overall,crop discontinuation,user's accuracy,mean,0.9365928798922181
+overall,crop discontinuation,producer's accuracy,mean,0.9194710111141731
+overall,crop introduction,user's accuracy,mean,0.9369001122100633
+overall,crop introduction,producer's accuracy,mean,0.9206381264123196
+switch,crop discontinuation,user's accuracy,median,0.8849094593460808
+switch,crop discontinuation,producer's accuracy,median,0.8456292263417909
+switch,crop introduction,user's accuracy,median,0.8905195912726208
+switch,crop introduction,producer's accuracy,median,0.8600541489148242
+no switch,crop discontinuation,user's accuracy,median,0.9657149874689349
+no switch,crop discontinuation,producer's accuracy,median,0.9452188261640169
+no switch,crop introduction,user's accuracy,median,0.9653617720078772
+no switch,crop introduction,producer's accuracy,median,0.9449627553225497
+overall,crop discontinuation,user's accuracy,median,0.9624980135250255
+overall,crop discontinuation,producer's accuracy,median,0.9427278445565825
+overall,crop introduction,user's accuracy,median,0.9621869809119578
+overall,crop introduction,producer's accuracy,median,0.9422659465986434
+switch,crop discontinuation,user's accuracy,misclass,0.010371405884584496
+switch,crop discontinuation,producer's accuracy,misclass,0.055421606024197836
+switch,crop introduction,user's accuracy,misclass,0.007866527479501317
+switch,crop introduction,producer's accuracy,misclass,0.038348516690963105
+no switch,crop discontinuation,user's accuracy,misclass,9.573427894195723e-4
+no switch,crop discontinuation,producer's accuracy,misclass,0.0024932733253251378
+no switch,crop introduction,user's accuracy,misclass,0.0013999050327569396
+no switch,crop introduction,producer's accuracy,misclass,0.0029942056463264405
+overall,crop discontinuation,user's accuracy,misclass,0.0016120298403711408
+overall,crop discontinuation,producer's accuracy,misclass,0.00617409569672028
+overall,crop introduction,user's accuracy,misclass,0.0018426076575510143
+overall,crop introduction,producer's accuracy,misclass,0.005414548943951079

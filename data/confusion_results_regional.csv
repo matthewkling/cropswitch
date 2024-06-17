@@ -1,0 +1,1369 @@
+state,switch,mode,margin,n,level,stat,p,pm
+NM,switch,crop discontinuation,user's accuracy,6847,state,mean,0.7301330886513652,0.790437600162339
+NM,switch,crop discontinuation,producer's accuracy,6847,state,mean,0.6740687555740861,0.790437600162339
+NM,switch,crop introduction,user's accuracy,8150,state,mean,0.7290948408817031,0.790437600162339
+NM,switch,crop introduction,producer's accuracy,8150,state,mean,0.6875967402475933,0.790437600162339
+NM,no switch,crop discontinuation,user's accuracy,46041,state,mean,0.8422656583368933,0.790437600162339
+NM,no switch,crop discontinuation,producer's accuracy,46041,state,mean,0.8502791351776454,0.790437600162339
+NM,no switch,crop introduction,user's accuracy,44738,state,mean,0.838529672913978,0.790437600162339
+NM,no switch,crop introduction,producer's accuracy,44738,state,mean,0.8422520003214072,0.790437600162339
+NM,overall,crop discontinuation,user's accuracy,52888,state,mean,0.7681616230050863,0.790437600162339
+NM,overall,crop discontinuation,producer's accuracy,52888,state,mean,0.7823958722829035,0.790437600162339
+NM,overall,crop introduction,user's accuracy,52888,state,mean,0.7510591732271904,0.790437600162339
+NM,overall,crop introduction,producer's accuracy,52888,state,mean,0.7606027181470512,0.790437600162339
+NM,switch,crop discontinuation,user's accuracy,6847,state,median,0.7522933325752431,0.790437600162339
+NM,switch,crop discontinuation,producer's accuracy,6847,state,median,0.7107030312109814,0.790437600162339
+NM,switch,crop introduction,user's accuracy,8150,state,median,0.7320574386180408,0.790437600162339
+NM,switch,crop introduction,producer's accuracy,8150,state,median,0.7135445814339436,0.790437600162339
+NM,no switch,crop discontinuation,user's accuracy,46041,state,median,0.8604076207369461,0.790437600162339
+NM,no switch,crop discontinuation,producer's accuracy,46041,state,median,0.8635558224461253,0.790437600162339
+NM,no switch,crop introduction,user's accuracy,44738,state,median,0.8556267215961237,0.790437600162339
+NM,no switch,crop introduction,producer's accuracy,44738,state,median,0.8583009554718896,0.790437600162339
+NM,overall,crop discontinuation,user's accuracy,52888,state,median,0.8427518106813828,0.790437600162339
+NM,overall,crop discontinuation,producer's accuracy,52888,state,median,0.8491324813165526,0.790437600162339
+NM,overall,crop introduction,user's accuracy,52888,state,median,0.833420959818979,0.790437600162339
+NM,overall,crop introduction,producer's accuracy,52888,state,median,0.8422683692230253,0.790437600162339
+MA,switch,crop discontinuation,user's accuracy,162,state,mean,0.8525216427140155,0.819376754230325
+MA,switch,crop discontinuation,producer's accuracy,162,state,mean,0.7835221819244665,0.819376754230325
+MA,switch,crop introduction,user's accuracy,88,state,mean,0.7647521583511203,0.819376754230325
+MA,switch,crop introduction,producer's accuracy,88,state,mean,0.6851536840742509,0.819376754230325
+MA,no switch,crop discontinuation,user's accuracy,1310,state,mean,0.8151950763387232,0.819376754230325
+MA,no switch,crop discontinuation,producer's accuracy,1310,state,mean,0.7964576481667541,0.819376754230325
+MA,no switch,crop introduction,user's accuracy,1384,state,mean,0.8211680863644618,0.819376754230325
+MA,no switch,crop introduction,producer's accuracy,1384,state,mean,0.7905288557040212,0.819376754230325
+MA,overall,crop discontinuation,user's accuracy,1472,state,mean,0.7417099482907996,0.819376754230325
+MA,overall,crop discontinuation,producer's accuracy,1472,state,mean,0.7326283462137801,0.819376754230325
+MA,overall,crop introduction,user's accuracy,1472,state,mean,0.7861402456477695,0.819376754230325
+MA,overall,crop introduction,producer's accuracy,1472,state,mean,0.7620913125651028,0.819376754230325
+MA,switch,crop discontinuation,user's accuracy,162,state,median,0.9123684887680898,0.819376754230325
+MA,switch,crop discontinuation,producer's accuracy,162,state,median,0.8386209499601573,0.819376754230325
+MA,switch,crop introduction,user's accuracy,88,state,median,0.7918877416084136,0.819376754230325
+MA,switch,crop introduction,producer's accuracy,88,state,median,0.6783508945152315,0.819376754230325
+MA,no switch,crop discontinuation,user's accuracy,1310,state,median,0.9104651463585111,0.819376754230325
+MA,no switch,crop discontinuation,producer's accuracy,1310,state,median,0.8725273868101653,0.819376754230325
+MA,no switch,crop introduction,user's accuracy,1384,state,median,0.9107016107121304,0.819376754230325
+MA,no switch,crop introduction,producer's accuracy,1384,state,median,0.8710651157995771,0.819376754230325
+MA,overall,crop discontinuation,user's accuracy,1472,state,median,0.9050942631119343,0.819376754230325
+MA,overall,crop discontinuation,producer's accuracy,1472,state,median,0.8674840216873922,0.819376754230325
+MA,overall,crop introduction,user's accuracy,1472,state,median,0.9068233892632684,0.819376754230325
+MA,overall,crop introduction,producer's accuracy,1472,state,median,0.8677839065776615,0.819376754230325
+GA,switch,crop discontinuation,user's accuracy,18167,state,mean,0.7724070200595643,0.8253613894516724
+GA,switch,crop discontinuation,producer's accuracy,18167,state,mean,0.6751243321254545,0.8253613894516724
+GA,switch,crop introduction,user's accuracy,13630,state,mean,0.7284322776730233,0.8253613894516724
+GA,switch,crop introduction,producer's accuracy,13630,state,mean,0.6631022026960885,0.8253613894516724
+GA,no switch,crop discontinuation,user's accuracy,117273,state,mean,0.8867530334550566,0.8253613894516724
+GA,no switch,crop discontinuation,producer's accuracy,117273,state,mean,0.8854018418857753,0.8253613894516724
+GA,no switch,crop introduction,user's accuracy,121810,state,mean,0.8957979716412482,0.8253613894516724
+GA,no switch,crop introduction,producer's accuracy,121810,state,mean,0.899773080441249,0.8253613894516724
+GA,overall,crop discontinuation,user's accuracy,135440,state,mean,0.7983377891239865,0.8253613894516724
+GA,overall,crop discontinuation,producer's accuracy,135440,state,mean,0.8102166749981348,0.8253613894516724
+GA,overall,crop introduction,user's accuracy,135440,state,mean,0.8329785807806938,0.8253613894516724
+GA,overall,crop introduction,producer's accuracy,135440,state,mean,0.8431281446086882,0.8253613894516724
+GA,switch,crop discontinuation,user's accuracy,18167,state,median,0.7997318951087267,0.8253613894516724
+GA,switch,crop discontinuation,producer's accuracy,18167,state,median,0.6346489874324813,0.8253613894516724
+GA,switch,crop introduction,user's accuracy,13630,state,median,0.7370999147877286,0.8253613894516724
+GA,switch,crop introduction,producer's accuracy,13630,state,median,0.6210644519598412,0.8253613894516724
+GA,no switch,crop discontinuation,user's accuracy,117273,state,median,0.912574434617624,0.8253613894516724
+GA,no switch,crop discontinuation,producer's accuracy,117273,state,median,0.9245995772301406,0.8253613894516724
+GA,no switch,crop introduction,user's accuracy,121810,state,median,0.9135309234492709,0.8253613894516724
+GA,no switch,crop introduction,producer's accuracy,121810,state,median,0.9267754296827027,0.8253613894516724
+GA,overall,crop discontinuation,user's accuracy,135440,state,median,0.9025799195833649,0.8253613894516724
+GA,overall,crop discontinuation,producer's accuracy,135440,state,median,0.9161067051782504,0.8253613894516724
+GA,overall,crop introduction,user's accuracy,135440,state,median,0.9080763047033718,0.8253613894516724
+GA,overall,crop introduction,producer's accuracy,135440,state,median,0.9204318536176711,0.8253613894516724
+RI,switch,crop discontinuation,user's accuracy,6,state,mean,0.8186525798125928,0.8266601779150323
+RI,switch,crop discontinuation,producer's accuracy,6,state,mean,0.6702929003937952,0.8266601779150323
+RI,switch,crop introduction,user's accuracy,8,state,mean,0.6847658724453181,0.8266601779150323
+RI,switch,crop introduction,producer's accuracy,8,state,mean,0.6945187434197706,0.8266601779150323
+RI,no switch,crop discontinuation,user's accuracy,50,state,mean,0.8869493431381391,0.8266601779150323
+RI,no switch,crop discontinuation,producer's accuracy,50,state,mean,0.8632356522851788,0.8266601779150323
+RI,no switch,crop introduction,user's accuracy,48,state,mean,0.8840790856848084,0.8266601779150323
+RI,no switch,crop introduction,producer's accuracy,48,state,mean,0.8567498684722797,0.8266601779150323
+RI,overall,crop discontinuation,user's accuracy,56,state,mean,0.8113491371077035,0.8266601779150323
+RI,overall,crop discontinuation,producer's accuracy,56,state,mean,0.8060718787838602,0.8266601779150323
+RI,overall,crop introduction,user's accuracy,56,state,mean,0.8028155202376475,0.8266601779150323
+RI,overall,crop introduction,producer's accuracy,56,state,mean,0.7779972096305583,0.8266601779150323
+RI,switch,crop discontinuation,user's accuracy,6,state,median,0.855424752327345,0.8266601779150323
+RI,switch,crop discontinuation,producer's accuracy,6,state,median,0.8164949135202135,0.8266601779150323
+RI,switch,crop introduction,user's accuracy,8,state,median,0.7339083984451673,0.8266601779150323
+RI,switch,crop introduction,producer's accuracy,8,state,median,0.7218075010953067,0.8266601779150323
+RI,no switch,crop discontinuation,user's accuracy,50,state,median,0.9122210327612554,0.8266601779150323
+RI,no switch,crop discontinuation,producer's accuracy,50,state,median,0.880333572234773,0.8266601779150323
+RI,no switch,crop introduction,user's accuracy,48,state,median,0.9122210327612554,0.8266601779150323
+RI,no switch,crop introduction,producer's accuracy,48,state,median,0.8788644503606832,0.8266601779150323
+RI,overall,crop discontinuation,user's accuracy,56,state,median,0.910198035403748,0.8266601779150323
+RI,overall,crop discontinuation,producer's accuracy,56,state,median,0.8788644503606832,0.8266601779150323
+RI,overall,crop introduction,user's accuracy,56,state,median,0.9095009524685267,0.8266601779150323
+RI,overall,crop introduction,producer's accuracy,56,state,median,0.8725273868101653,0.8266601779150323
+SC,switch,crop discontinuation,user's accuracy,9473,state,mean,0.7924499392973763,0.8322822294362576
+SC,switch,crop discontinuation,producer's accuracy,9473,state,mean,0.7524548034897405,0.8322822294362576
+SC,switch,crop introduction,user's accuracy,7336,state,mean,0.7853648994172305,0.8322822294362576
+SC,switch,crop introduction,producer's accuracy,7336,state,mean,0.7465181794011567,0.8322822294362576
+SC,no switch,crop discontinuation,user's accuracy,49151,state,mean,0.8886633143364676,0.8322822294362576
+SC,no switch,crop discontinuation,producer's accuracy,49151,state,mean,0.8613981833257013,0.8322822294362576
+SC,no switch,crop introduction,user's accuracy,51288,state,mean,0.8947653639822977,0.8322822294362576
+SC,no switch,crop introduction,producer's accuracy,51288,state,mean,0.8694697567211821,0.8322822294362576
+SC,overall,crop discontinuation,user's accuracy,58624,state,mean,0.7786028296941129,0.8322822294362576
+SC,overall,crop discontinuation,producer's accuracy,58624,state,mean,0.7622062253545174,0.8322822294362576
+SC,overall,crop introduction,user's accuracy,58624,state,mean,0.8096562685214124,0.8322822294362576
+SC,overall,crop introduction,producer's accuracy,58624,state,mean,0.7923872052167901,0.8322822294362576
+SC,switch,crop discontinuation,user's accuracy,9473,state,median,0.8210450704923276,0.8322822294362576
+SC,switch,crop discontinuation,producer's accuracy,9473,state,median,0.7773170138951955,0.8322822294362576
+SC,switch,crop introduction,user's accuracy,7336,state,median,0.804752826294403,0.8322822294362576
+SC,switch,crop introduction,producer's accuracy,7336,state,median,0.7579431508754177,0.8322822294362576
+SC,no switch,crop discontinuation,user's accuracy,49151,state,median,0.9052116634692204,0.8322822294362576
+SC,no switch,crop discontinuation,producer's accuracy,49151,state,median,0.8758120335411136,0.8322822294362576
+SC,no switch,crop introduction,user's accuracy,51288,state,median,0.9080406047817978,0.8322822294362576
+SC,no switch,crop introduction,producer's accuracy,51288,state,median,0.8778059033734367,0.8322822294362576
+SC,overall,crop discontinuation,user's accuracy,58624,state,median,0.8881005191698084,0.8322822294362576
+SC,overall,crop discontinuation,producer's accuracy,58624,state,median,0.8602819485105053,0.8322822294362576
+SC,overall,crop introduction,user's accuracy,58624,state,median,0.8968086516352374,0.8322822294362576
+SC,overall,crop introduction,producer's accuracy,58624,state,median,0.867717151673735,0.8322822294362576
+CT,switch,crop discontinuation,user's accuracy,71,state,mean,0.7923650043269399,0.8324781000385875
+CT,switch,crop discontinuation,producer's accuracy,71,state,mean,0.691898678308529,0.8324781000385875
+CT,switch,crop introduction,user's accuracy,49,state,mean,0.768700626387816,0.8324781000385875
+CT,switch,crop introduction,producer's accuracy,49,state,mean,0.6417078124554108,0.8324781000385875
+CT,no switch,crop discontinuation,user's accuracy,1377,state,mean,0.8959904327021727,0.8324781000385875
+CT,no switch,crop discontinuation,producer's accuracy,1377,state,mean,0.8726548382273415,0.8324781000385875
+CT,no switch,crop introduction,user's accuracy,1399,state,mean,0.8970279604458606,0.8324781000385875
+CT,no switch,crop introduction,producer's accuracy,1399,state,mean,0.8724311409816362,0.8324781000385875
+CT,overall,crop discontinuation,user's accuracy,1448,state,mean,0.8622381978754691,0.8324781000385875
+CT,overall,crop discontinuation,producer's accuracy,1448,state,mean,0.8449730014358724,0.8324781000385875
+CT,overall,crop introduction,user's accuracy,1448,state,mean,0.8744998521897487,0.8324781000385875
+CT,overall,crop introduction,producer's accuracy,1448,state,mean,0.8550327924191947,0.8324781000385875
+CT,switch,crop discontinuation,user's accuracy,71,state,median,0.8138414102944521,0.8324781000385875
+CT,switch,crop discontinuation,producer's accuracy,71,state,median,0.7148548535635844,0.8324781000385875
+CT,switch,crop introduction,user's accuracy,49,state,median,0.7750414050571328,0.8324781000385875
+CT,switch,crop introduction,producer's accuracy,49,state,median,0.6416942979092797,0.8324781000385875
+CT,no switch,crop discontinuation,user's accuracy,1377,state,median,0.9122660737257317,0.8324781000385875
+CT,no switch,crop discontinuation,producer's accuracy,1377,state,median,0.8788644503606832,0.8324781000385875
+CT,no switch,crop introduction,user's accuracy,1399,state,median,0.9122660737257317,0.8324781000385875
+CT,no switch,crop introduction,producer's accuracy,1399,state,median,0.8788644503606832,0.8324781000385875
+CT,overall,crop discontinuation,user's accuracy,1448,state,median,0.9122660737257317,0.8324781000385875
+CT,overall,crop discontinuation,producer's accuracy,1448,state,median,0.8788644503606832,0.8324781000385875
+CT,overall,crop introduction,user's accuracy,1448,state,median,0.9122660737257317,0.8324781000385875
+CT,overall,crop introduction,producer's accuracy,1448,state,median,0.8788644503606832,0.8324781000385875
+TX,switch,crop discontinuation,user's accuracy,76937,state,mean,0.7568643202351221,0.8346068128452375
+TX,switch,crop discontinuation,producer's accuracy,76937,state,mean,0.7128360833072676,0.8346068128452375
+TX,switch,crop introduction,user's accuracy,71358,state,mean,0.779109434606912,0.8346068128452375
+TX,switch,crop introduction,producer's accuracy,71358,state,mean,0.7258000521754009,0.8346068128452375
+TX,no switch,crop discontinuation,user's accuracy,785479,state,mean,0.8767008113733359,0.8346068128452375
+TX,no switch,crop discontinuation,producer's accuracy,785479,state,mean,0.8843902450890773,0.8346068128452375
+TX,no switch,crop introduction,user's accuracy,791058,state,mean,0.8787002187400769,0.8346068128452375
+TX,no switch,crop introduction,producer's accuracy,791058,state,mean,0.8869720589015798,0.8346068128452375
+TX,overall,crop discontinuation,user's accuracy,862416,state,mean,0.820179827845014,0.8346068128452375
+TX,overall,crop discontinuation,producer's accuracy,862416,state,mean,0.8311110827963728,0.8346068128452375
+TX,overall,crop introduction,user's accuracy,862416,state,mean,0.8242717512214446,0.8346068128452375
+TX,overall,crop introduction,producer's accuracy,862416,state,mean,0.8362700864170358,0.8346068128452375
+TX,switch,crop discontinuation,user's accuracy,76937,state,median,0.7604601014227244,0.8346068128452375
+TX,switch,crop discontinuation,producer's accuracy,76937,state,median,0.74393135009411,0.8346068128452375
+TX,switch,crop introduction,user's accuracy,71358,state,median,0.7783178500207318,0.8346068128452375
+TX,switch,crop introduction,producer's accuracy,71358,state,median,0.7612810905212082,0.8346068128452375
+TX,no switch,crop discontinuation,user's accuracy,785479,state,median,0.892375974708641,0.8346068128452375
+TX,no switch,crop discontinuation,producer's accuracy,785479,state,median,0.9052884330308433,0.8346068128452375
+TX,no switch,crop introduction,user's accuracy,791058,state,median,0.8929080888061386,0.8346068128452375
+TX,no switch,crop introduction,producer's accuracy,791058,state,median,0.9076822189574814,0.8346068128452375
+TX,overall,crop discontinuation,user's accuracy,862416,state,median,0.885914149651861,0.8346068128452375
+TX,overall,crop discontinuation,producer's accuracy,862416,state,median,0.8974096373900556,0.8346068128452375
+TX,overall,crop introduction,user's accuracy,862416,state,median,0.8890007204282349,0.8346068128452375
+TX,overall,crop introduction,producer's accuracy,862416,state,median,0.9027879205450313,0.8346068128452375
+MT,switch,crop discontinuation,user's accuracy,59264,state,mean,0.8205715069331122,0.8349588772810482
+MT,switch,crop discontinuation,producer's accuracy,59264,state,mean,0.764772359375769,0.8349588772810482
+MT,switch,crop introduction,user's accuracy,112448,state,mean,0.8610142138326559,0.8349588772810482
+MT,switch,crop introduction,producer's accuracy,112448,state,mean,0.8056494325822425,0.8349588772810482
+MT,no switch,crop discontinuation,user's accuracy,544408,state,mean,0.8666210346022343,0.8349588772810482
+MT,no switch,crop discontinuation,producer's accuracy,544408,state,mean,0.86826428637728,0.8349588772810482
+MT,no switch,crop introduction,user's accuracy,491224,state,mean,0.8547391667658585,0.8349588772810482
+MT,no switch,crop introduction,producer's accuracy,491224,state,mean,0.8666611551708361,0.8349588772810482
+MT,overall,crop discontinuation,user's accuracy,603672,state,mean,0.7991576127745693,0.8349588772810482
+MT,overall,crop discontinuation,producer's accuracy,603672,state,mean,0.8061174851774363,0.8349588772810482
+MT,overall,crop introduction,user's accuracy,603672,state,mean,0.721413393595093,0.8349588772810482
+MT,overall,crop introduction,producer's accuracy,603672,state,mean,0.7414276161435853,0.8349588772810482
+MT,switch,crop discontinuation,user's accuracy,59264,state,median,0.8370050466626829,0.8349588772810482
+MT,switch,crop discontinuation,producer's accuracy,59264,state,median,0.8017413492289368,0.8349588772810482
+MT,switch,crop introduction,user's accuracy,112448,state,median,0.868883044198131,0.8349588772810482
+MT,switch,crop introduction,producer's accuracy,112448,state,median,0.8259282200641079,0.8349588772810482
+MT,no switch,crop discontinuation,user's accuracy,544408,state,median,0.8702511324653035,0.8349588772810482
+MT,no switch,crop discontinuation,producer's accuracy,544408,state,median,0.8764371678152992,0.8349588772810482
+MT,no switch,crop introduction,user's accuracy,491224,state,median,0.8598969534422378,0.8349588772810482
+MT,no switch,crop introduction,producer's accuracy,491224,state,median,0.8885783707633172,0.8349588772810482
+MT,overall,crop discontinuation,user's accuracy,603672,state,median,0.865457523384306,0.8349588772810482
+MT,overall,crop discontinuation,producer's accuracy,603672,state,median,0.8639064080345733,0.8349588772810482
+MT,overall,crop introduction,user's accuracy,603672,state,median,0.8416675448803377,0.8349588772810482
+MT,overall,crop introduction,producer's accuracy,603672,state,median,0.8628510304752517,0.8349588772810482
+MD,switch,crop discontinuation,user's accuracy,6701,state,mean,0.7704868194850203,0.8367625709337825
+MD,switch,crop discontinuation,producer's accuracy,6701,state,mean,0.6522103283657648,0.8367625709337825
+MD,switch,crop introduction,user's accuracy,4900,state,mean,0.7554963566572506,0.8367625709337825
+MD,switch,crop introduction,producer's accuracy,4900,state,mean,0.6397739359908386,0.8367625709337825
+MD,no switch,crop discontinuation,user's accuracy,45907,state,mean,0.9037409378614869,0.8367625709337825
+MD,no switch,crop discontinuation,producer's accuracy,45907,state,mean,0.9118324900950022,0.8367625709337825
+MD,no switch,crop introduction,user's accuracy,47708,state,mean,0.911831687842892,0.8367625709337825
+MD,no switch,crop introduction,producer's accuracy,47708,state,mean,0.9152595614870151,0.8367625709337825
+MD,overall,crop discontinuation,user's accuracy,52608,state,mean,0.8178604595696122,0.8367625709337825
+MD,overall,crop discontinuation,producer's accuracy,52608,state,mean,0.8399869356830194,0.8367625709337825
+MD,overall,crop introduction,user's accuracy,52608,state,mean,0.8496756009730112,0.8367625709337825
+MD,overall,crop introduction,producer's accuracy,52608,state,mean,0.8635627827149369,0.8367625709337825
+MD,switch,crop discontinuation,user's accuracy,6701,state,median,0.7729975104504339,0.8367625709337825
+MD,switch,crop discontinuation,producer's accuracy,6701,state,median,0.686416018039567,0.8367625709337825
+MD,switch,crop introduction,user's accuracy,4900,state,median,0.7462068475011026,0.8367625709337825
+MD,switch,crop introduction,producer's accuracy,4900,state,median,0.6539171921048025,0.8367625709337825
+MD,no switch,crop discontinuation,user's accuracy,45907,state,median,0.9217862670977715,0.8367625709337825
+MD,no switch,crop discontinuation,producer's accuracy,45907,state,median,0.9283303779259107,0.8367625709337825
+MD,no switch,crop introduction,user's accuracy,47708,state,median,0.9300128377473975,0.8367625709337825
+MD,no switch,crop introduction,producer's accuracy,47708,state,median,0.9277061014204446,0.8367625709337825
+MD,overall,crop discontinuation,user's accuracy,52608,state,median,0.9137744241888359,0.8367625709337825
+MD,overall,crop discontinuation,producer's accuracy,52608,state,median,0.9225553289041759,0.8367625709337825
+MD,overall,crop introduction,user's accuracy,52608,state,median,0.923031992186726,0.8367625709337825
+MD,overall,crop introduction,producer's accuracy,52608,state,median,0.9238489081177608,0.8367625709337825
+ME,switch,crop discontinuation,user's accuracy,1033,state,mean,0.79155044666089025,0.8377203584963812
+ME,switch,crop discontinuation,producer's accuracy,1033,state,mean,0.7865346510438884,0.8377203584963812
+ME,switch,crop introduction,user's accuracy,1265,state,mean,0.8122272309573626,0.8377203584963812
+ME,switch,crop introduction,producer's accuracy,1265,state,mean,0.8161258031580159,0.8377203584963812
+ME,no switch,crop discontinuation,user's accuracy,7871,state,mean,0.8817893323839534,0.8377203584963812
+ME,no switch,crop discontinuation,producer's accuracy,7871,state,mean,0.8439194337455272,0.8377203584963812
+ME,no switch,crop introduction,user's accuracy,7639,state,mean,0.8793670318625998,0.8377203584963812
+ME,no switch,crop introduction,producer's accuracy,7639,state,mean,0.837854987046329,0.8377203584963812
+ME,overall,crop discontinuation,user's accuracy,8904,state,mean,0.8036716333999774,0.8377203584963812
+ME,overall,crop discontinuation,producer's accuracy,8904,state,mean,0.7707771303327391,0.8377203584963812
+ME,overall,crop introduction,user's accuracy,8904,state,mean,0.7811115576412102,0.8377203584963812
+ME,overall,crop introduction,producer's accuracy,8904,state,mean,0.7449432957156352,0.8377203584963812
+ME,switch,crop discontinuation,user's accuracy,1033,state,median,0.7910076859494708,0.8377203584963812
+ME,switch,crop discontinuation,producer's accuracy,1033,state,median,0.7890902998887239,0.8377203584963812
+ME,switch,crop introduction,user's accuracy,1265,state,median,0.8254225781267975,0.8377203584963812
+ME,switch,crop introduction,producer's accuracy,1265,state,median,0.8302853063930901,0.8377203584963812
+ME,no switch,crop discontinuation,user's accuracy,7871,state,median,0.9148003120115479,0.8377203584963812
+ME,no switch,crop discontinuation,producer's accuracy,7871,state,median,0.8788644503606832,0.8377203584963812
+ME,no switch,crop introduction,user's accuracy,7639,state,median,0.9134762541543191,0.8377203584963812
+ME,no switch,crop introduction,producer's accuracy,7639,state,median,0.873202173113864,0.8377203584963812
+ME,overall,crop discontinuation,user's accuracy,8904,state,median,0.910716128486043,0.8377203584963812
+ME,overall,crop discontinuation,producer's accuracy,8904,state,median,0.8639044206810018,0.8377203584963812
+ME,overall,crop introduction,user's accuracy,8904,state,median,0.9039097346204594,0.8377203584963812
+ME,overall,crop introduction,producer's accuracy,8904,state,median,0.8607367261790191,0.8377203584963812
+OK,switch,crop discontinuation,user's accuracy,28829,state,mean,0.8062980899577786,0.8455859283255015
+OK,switch,crop discontinuation,producer's accuracy,28829,state,mean,0.6967016885289887,0.8455859283255015
+OK,switch,crop introduction,user's accuracy,38101,state,mean,0.8198310336472597,0.8455859283255015
+OK,switch,crop introduction,producer's accuracy,38101,state,mean,0.7279353688598164,0.8455859283255015
+OK,no switch,crop discontinuation,user's accuracy,364307,state,mean,0.878184830457556,0.8455859283255015
+OK,no switch,crop discontinuation,producer's accuracy,364307,state,mean,0.9070661928491729,0.8455859283255015
+OK,no switch,crop introduction,user's accuracy,355035,state,mean,0.8728692899482411,0.8455859283255015
+OK,no switch,crop introduction,producer's accuracy,355035,state,mean,0.8996775788525883,0.8455859283255015
+OK,overall,crop discontinuation,user's accuracy,393136,state,mean,0.827991110949174,0.8455859283255015
+OK,overall,crop discontinuation,producer's accuracy,393136,state,mean,0.8627913763677242,0.8455859283255015
+OK,overall,crop introduction,user's accuracy,393136,state,mean,0.8057358424152998,0.8455859283255015
+OK,overall,crop introduction,producer's accuracy,393136,state,mean,0.8388521115313868,0.8455859283255015
+OK,switch,crop discontinuation,user's accuracy,28829,state,median,0.8353043121637668,0.8455859283255015
+OK,switch,crop discontinuation,producer's accuracy,28829,state,median,0.7499801184715298,0.8455859283255015
+OK,switch,crop introduction,user's accuracy,38101,state,median,0.8476383861817279,0.8455859283255015
+OK,switch,crop introduction,producer's accuracy,38101,state,median,0.7815607082149919,0.8455859283255015
+OK,no switch,crop discontinuation,user's accuracy,364307,state,median,0.8791279980266511,0.8455859283255015
+OK,no switch,crop discontinuation,producer's accuracy,364307,state,median,0.9114546525196459,0.8455859283255015
+OK,no switch,crop introduction,user's accuracy,355035,state,median,0.8775476738836784,0.8455859283255015
+OK,no switch,crop introduction,producer's accuracy,355035,state,median,0.9111313745555062,0.8455859283255015
+OK,overall,crop discontinuation,user's accuracy,393136,state,median,0.8739348036514356,0.8455859283255015
+OK,overall,crop discontinuation,producer's accuracy,393136,state,median,0.9112462763010994,0.8455859283255015
+OK,overall,crop introduction,user's accuracy,393136,state,median,0.8652938916656802,0.8455859283255015
+OK,overall,crop introduction,producer's accuracy,393136,state,median,0.9059075698113372,0.8455859283255015
+PA,switch,crop discontinuation,user's accuracy,3491,state,mean,0.7939618127686136,0.8460216670389898
+PA,switch,crop discontinuation,producer's accuracy,3491,state,mean,0.7404602091387545,0.8460216670389898
+PA,switch,crop introduction,user's accuracy,3837,state,mean,0.7875820093489713,0.8460216670389898
+PA,switch,crop introduction,producer's accuracy,3837,state,mean,0.7376023884670756,0.8460216670389898
+PA,no switch,crop discontinuation,user's accuracy,49413,state,mean,0.9050298864090591,0.8460216670389898
+PA,no switch,crop discontinuation,producer's accuracy,49413,state,mean,0.8717914545121762,0.8460216670389898
+PA,no switch,crop introduction,user's accuracy,49067,state,mean,0.9035243505283821,0.8460216670389898
+PA,no switch,crop introduction,producer's accuracy,49067,state,mean,0.8688011060658869,0.8460216670389898
+PA,overall,crop discontinuation,user's accuracy,52904,state,mean,0.8589052073331999,0.8460216670389898
+PA,overall,crop discontinuation,producer's accuracy,52904,state,mean,0.8313905291037873,0.8460216670389898
+PA,overall,crop introduction,user's accuracy,52904,state,mean,0.8534000668664772,0.8460216670389898
+PA,overall,crop introduction,producer's accuracy,52904,state,mean,0.8248201176997333,0.8460216670389898
+PA,switch,crop discontinuation,user's accuracy,3491,state,median,0.8235940409035649,0.8460216670389898
+PA,switch,crop discontinuation,producer's accuracy,3491,state,median,0.7490425306944246,0.8460216670389898
+PA,switch,crop introduction,user's accuracy,3837,state,median,0.8144691944957562,0.8460216670389898
+PA,switch,crop introduction,producer's accuracy,3837,state,median,0.7490425306944246,0.8460216670389898
+PA,no switch,crop discontinuation,user's accuracy,49413,state,median,0.924499700433114,0.8460216670389898
+PA,no switch,crop discontinuation,producer's accuracy,49413,state,median,0.8783986316844655,0.8460216670389898
+PA,no switch,crop introduction,user's accuracy,49067,state,median,0.923964205604922,0.8460216670389898
+PA,no switch,crop introduction,producer's accuracy,49067,state,median,0.8769287532757039,0.8460216670389898
+PA,overall,crop discontinuation,user's accuracy,52904,state,median,0.9199549252792185,0.8460216670389898
+PA,overall,crop discontinuation,producer's accuracy,52904,state,median,0.8760628813478206,0.8460216670389898
+PA,overall,crop introduction,user's accuracy,52904,state,median,0.9174120605649504,0.8460216670389898
+PA,overall,crop introduction,producer's accuracy,52904,state,median,0.8738814157152732,0.8460216670389898
+AL,switch,crop discontinuation,user's accuracy,5141,state,mean,0.8007923238179394,0.8475431272407372
+AL,switch,crop discontinuation,producer's accuracy,5141,state,mean,0.7640917026363612,0.8475431272407372
+AL,switch,crop introduction,user's accuracy,4209,state,mean,0.7880001601887269,0.8475431272407372
+AL,switch,crop introduction,producer's accuracy,4209,state,mean,0.7797789750863886,0.8475431272407372
+AL,no switch,crop discontinuation,user's accuracy,40899,state,mean,0.9019639107975213,0.8475431272407372
+AL,no switch,crop discontinuation,producer's accuracy,40899,state,mean,0.871003195564608,0.8475431272407372
+AL,no switch,crop introduction,user's accuracy,41831,state,mean,0.9010598001508991,0.8475431272407372
+AL,no switch,crop introduction,producer's accuracy,41831,state,mean,0.8717546642549922,0.8475431272407372
+AL,overall,crop discontinuation,user's accuracy,46040,state,mean,0.8234914998036446,0.8475431272407372
+AL,overall,crop discontinuation,producer's accuracy,46040,state,mean,0.8000861045209248,0.8475431272407372
+AL,overall,crop introduction,user's accuracy,46040,state,mean,0.8380655913526914,0.8475431272407372
+AL,overall,crop introduction,producer's accuracy,46040,state,mean,0.812191130632319,0.8475431272407372
+AL,switch,crop discontinuation,user's accuracy,5141,state,median,0.8177137008001983,0.8475431272407372
+AL,switch,crop discontinuation,producer's accuracy,5141,state,median,0.7951739339098839,0.8475431272407372
+AL,switch,crop introduction,user's accuracy,4209,state,median,0.8064549738301259,0.8475431272407372
+AL,switch,crop introduction,producer's accuracy,4209,state,median,0.7953835652466354,0.8475431272407372
+AL,no switch,crop discontinuation,user's accuracy,40899,state,median,0.91369945828106,0.8475431272407372
+AL,no switch,crop discontinuation,producer's accuracy,40899,state,median,0.8861675198458634,0.8475431272407372
+AL,no switch,crop introduction,user's accuracy,41831,state,median,0.9130179370471698,0.8475431272407372
+AL,no switch,crop introduction,producer's accuracy,41831,state,median,0.8863391240965468,0.8475431272407372
+AL,overall,crop discontinuation,user's accuracy,46040,state,median,0.907159603972433,0.8475431272407372
+AL,overall,crop discontinuation,producer's accuracy,46040,state,median,0.8780059355462051,0.8475431272407372
+AL,overall,crop introduction,user's accuracy,46040,state,median,0.9080524348155123,0.8475431272407372
+AL,overall,crop introduction,producer's accuracy,46040,state,median,0.881587807579043,0.8475431272407372
+Southern Seaboard,switch,crop discontinuation,user's accuracy,68609,region,mean,0.8003212703349961,0.8475446290793295
+Southern Seaboard,switch,crop discontinuation,producer's accuracy,68609,region,mean,0.724061948639892,0.8475446290793295
+Southern Seaboard,switch,crop introduction,user's accuracy,54119,region,mean,0.7910064599911499,0.8475446290793295
+Southern Seaboard,switch,crop introduction,producer's accuracy,54119,region,mean,0.7251061570254214,0.8475446290793295
+Southern Seaboard,no switch,crop discontinuation,user's accuracy,438895,region,mean,0.9032055541941617,0.8475446290793295
+Southern Seaboard,no switch,crop discontinuation,producer's accuracy,438895,region,mean,0.8920002338988288,0.8475446290793295
+Southern Seaboard,no switch,crop introduction,user's accuracy,453385,region,mean,0.9074188219570731,0.8475446290793295
+Southern Seaboard,no switch,crop introduction,producer's accuracy,453385,region,mean,0.8968218484209295,0.8475446290793295
+Southern Seaboard,overall,crop discontinuation,user's accuracy,507504,region,mean,0.8080964084453187,0.8475446290793295
+Southern Seaboard,overall,crop discontinuation,producer's accuracy,507504,region,mean,0.8087153528303069,0.8475446290793295
+Southern Seaboard,overall,crop introduction,user's accuracy,507504,region,mean,0.8329404378778226,0.8475446290793295
+Southern Seaboard,overall,crop introduction,producer's accuracy,507504,region,mean,0.8305009490255528,0.8475446290793295
+Southern Seaboard,switch,crop discontinuation,user's accuracy,68609,region,median,0.8174946773851798,0.8475446290793295
+Southern Seaboard,switch,crop discontinuation,producer's accuracy,68609,region,median,0.7546868930235615,0.8475446290793295
+Southern Seaboard,switch,crop introduction,user's accuracy,54119,region,median,0.8134993837523645,0.8475446290793295
+Southern Seaboard,switch,crop introduction,producer's accuracy,54119,region,median,0.7476427685486695,0.8475446290793295
+Southern Seaboard,no switch,crop discontinuation,user's accuracy,438895,region,median,0.9179557501300911,0.8475446290793295
+Southern Seaboard,no switch,crop discontinuation,producer's accuracy,438895,region,median,0.9125695111127943,0.8475446290793295
+Southern Seaboard,no switch,crop introduction,user's accuracy,453385,region,median,0.9180875467402301,0.8475446290793295
+Southern Seaboard,no switch,crop introduction,producer's accuracy,453385,region,median,0.9121999975268718,0.8475446290793295
+Southern Seaboard,overall,crop discontinuation,user's accuracy,507504,region,median,0.9102333806658002,0.8475446290793295
+Southern Seaboard,overall,crop discontinuation,producer's accuracy,507504,region,median,0.9004499441242135,0.8475446290793295
+Southern Seaboard,overall,crop introduction,user's accuracy,507504,region,median,0.9129430504609827,0.8475446290793295
+Southern Seaboard,overall,crop introduction,producer's accuracy,507504,region,median,0.9031127517916954,0.8475446290793295
+DE,switch,crop discontinuation,user's accuracy,2826,state,mean,0.7981111327698286,0.8487259393802445
+DE,switch,crop discontinuation,producer's accuracy,2826,state,mean,0.7073265172243678,0.8487259393802445
+DE,switch,crop introduction,user's accuracy,2152,state,mean,0.7937562116296228,0.8487259393802445
+DE,switch,crop introduction,producer's accuracy,2152,state,mean,0.6755980783933274,0.8487259393802445
+DE,no switch,crop discontinuation,user's accuracy,19638,state,mean,0.9067430709961685,0.8487259393802445
+DE,no switch,crop discontinuation,producer's accuracy,19638,state,mean,0.9103294011768638,0.8487259393802445
+DE,no switch,crop introduction,user's accuracy,20312,state,mean,0.9115591538445661,0.8487259393802445
+DE,no switch,crop introduction,producer's accuracy,20312,state,mean,0.9157001315236684,0.8487259393802445
+DE,overall,crop discontinuation,user's accuracy,22464,state,mean,0.8180715085031703,0.8487259393802445
+DE,overall,crop discontinuation,producer's accuracy,22464,state,mean,0.8326274947754269,0.8487259393802445
+DE,overall,crop introduction,user's accuracy,22464,state,mean,0.8439915493885274,0.8487259393802445
+DE,overall,crop introduction,producer's accuracy,22464,state,mean,0.8590551107018479,0.8487259393802445
+DE,switch,crop discontinuation,user's accuracy,2826,state,median,0.7952342293274399,0.8487259393802445
+DE,switch,crop discontinuation,producer's accuracy,2826,state,median,0.7307117107611205,0.8487259393802445
+DE,switch,crop introduction,user's accuracy,2152,state,median,0.7854414401562196,0.8487259393802445
+DE,switch,crop introduction,producer's accuracy,2152,state,median,0.6795821083393679,0.8487259393802445
+DE,no switch,crop discontinuation,user's accuracy,19638,state,median,0.9279551488509121,0.8487259393802445
+DE,no switch,crop discontinuation,producer's accuracy,19638,state,median,0.9288009857556903,0.8487259393802445
+DE,no switch,crop introduction,user's accuracy,20312,state,median,0.9325011474346128,0.8487259393802445
+DE,no switch,crop introduction,producer's accuracy,20312,state,median,0.9299699939565167,0.8487259393802445
+DE,overall,crop discontinuation,user's accuracy,22464,state,median,0.9153378371863337,0.8487259393802445
+DE,overall,crop discontinuation,producer's accuracy,22464,state,median,0.9226277269841194,0.8487259393802445
+DE,overall,crop introduction,user's accuracy,22464,state,median,0.9230829072386545,0.8487259393802445
+DE,overall,crop introduction,producer's accuracy,22464,state,median,0.9253079482074955,0.8487259393802445
+NJ,switch,crop discontinuation,user's accuracy,1161,state,mean,0.8103012321411532,0.8492066777779571
+NJ,switch,crop discontinuation,producer's accuracy,1161,state,mean,0.7056035750886621,0.8492066777779571
+NJ,switch,crop introduction,user's accuracy,881,state,mean,0.8087905903590585,0.8492066777779571
+NJ,switch,crop introduction,producer's accuracy,881,state,mean,0.6925265935795101,0.8492066777779571
+NJ,no switch,crop discontinuation,user's accuracy,8479,state,mean,0.893708082344333,0.8492066777779571
+NJ,no switch,crop discontinuation,producer's accuracy,8479,state,mean,0.892700695932339,0.8492066777779571
+NJ,no switch,crop introduction,user's accuracy,8759,state,mean,0.9011560607351726,0.8492066777779571
+NJ,no switch,crop introduction,producer's accuracy,8759,state,mean,0.9031739784326842,0.8492066777779571
+NJ,overall,crop discontinuation,user's accuracy,9640,state,mean,0.808920238556195,0.8492066777779571
+NJ,overall,crop discontinuation,producer's accuracy,9640,state,mean,0.8206435114245192,0.8492066777779571
+NJ,overall,crop introduction,user's accuracy,9640,state,mean,0.8362740068333036,0.8492066777779571
+NJ,overall,crop introduction,producer's accuracy,9640,state,mean,0.8487328784386237,0.8492066777779571
+NJ,switch,crop discontinuation,user's accuracy,1161,state,median,0.8205296606286806,0.8492066777779571
+NJ,switch,crop discontinuation,producer's accuracy,1161,state,median,0.7409770191041244,0.8492066777779571
+NJ,switch,crop introduction,user's accuracy,881,state,median,0.8175405061355359,0.8492066777779571
+NJ,switch,crop introduction,producer's accuracy,881,state,median,0.7356773553259133,0.8492066777779571
+NJ,no switch,crop discontinuation,user's accuracy,8479,state,median,0.9204806134118185,0.8492066777779571
+NJ,no switch,crop discontinuation,producer's accuracy,8479,state,median,0.9199777431729028,0.8492066777779571
+NJ,no switch,crop introduction,user's accuracy,8759,state,median,0.9210728247849707,0.8492066777779571
+NJ,no switch,crop introduction,producer's accuracy,8759,state,median,0.9189296017302615,0.8492066777779571
+NJ,overall,crop discontinuation,user's accuracy,9640,state,median,0.9145866693963025,0.8492066777779571
+NJ,overall,crop discontinuation,producer's accuracy,9640,state,median,0.9163941793520565,0.8492066777779571
+NJ,overall,crop introduction,user's accuracy,9640,state,median,0.9156018381368541,0.8492066777779571
+NJ,overall,crop introduction,producer's accuracy,9640,state,median,0.9166608116259947,0.8492066777779571
+UT,switch,crop discontinuation,user's accuracy,3452,state,mean,0.8050180459676545,0.8516577628194104
+UT,switch,crop discontinuation,producer's accuracy,3452,state,mean,0.7239285449220676,0.8516577628194104
+UT,switch,crop introduction,user's accuracy,2434,state,mean,0.8084243934296449,0.8516577628194104
+UT,switch,crop introduction,producer's accuracy,2434,state,mean,0.7385391286708912,0.8516577628194104
+UT,no switch,crop discontinuation,user's accuracy,31060,state,mean,0.8902246113271377,0.8516577628194104
+UT,no switch,crop discontinuation,producer's accuracy,31060,state,mean,0.8974887541930702,0.8516577628194104
+UT,no switch,crop introduction,user's accuracy,32078,state,mean,0.8932329003929562,0.8516577628194104
+UT,no switch,crop introduction,producer's accuracy,32078,state,mean,0.9010301575493098,0.8516577628194104
+UT,overall,crop discontinuation,user's accuracy,34512,state,mean,0.8206842296343462,0.8516577628194104
+UT,overall,crop discontinuation,producer's accuracy,34512,state,mean,0.8353326196153742,0.8516577628194104
+UT,overall,crop introduction,user's accuracy,34512,state,mean,0.8437476821162925,0.8516577628194104
+UT,overall,crop introduction,producer's accuracy,34512,state,mean,0.8559237701287034,0.8516577628194104
+UT,switch,crop discontinuation,user's accuracy,3452,state,median,0.83034241959315,0.8516577628194104
+UT,switch,crop discontinuation,producer's accuracy,3452,state,median,0.7510922604342352,0.8516577628194104
+UT,switch,crop introduction,user's accuracy,2434,state,median,0.8368039157871374,0.8516577628194104
+UT,switch,crop introduction,producer's accuracy,2434,state,median,0.7727104476732634,0.8516577628194104
+UT,no switch,crop discontinuation,user's accuracy,31060,state,median,0.8962559153289069,0.8516577628194104
+UT,no switch,crop discontinuation,producer's accuracy,31060,state,median,0.915002711057911,0.8516577628194104
+UT,no switch,crop introduction,user's accuracy,32078,state,median,0.8975502666649993,0.8516577628194104
+UT,no switch,crop introduction,producer's accuracy,32078,state,median,0.9158760860528831,0.8516577628194104
+UT,overall,crop discontinuation,user's accuracy,34512,state,median,0.8923603361548297,0.8516577628194104
+UT,overall,crop discontinuation,producer's accuracy,34512,state,median,0.9116487525319266,0.8516577628194104
+UT,overall,crop introduction,user's accuracy,34512,state,median,0.893608533491348,0.8516577628194104
+UT,overall,crop introduction,producer's accuracy,34512,state,median,0.9129598249478101,0.8516577628194104
+WY,switch,crop discontinuation,user's accuracy,3646,state,mean,0.8567414866193169,0.854479743416393
+WY,switch,crop discontinuation,producer's accuracy,3646,state,mean,0.8137995280230835,0.854479743416393
+WY,switch,crop introduction,user's accuracy,3563,state,mean,0.860799910217197,0.854479743416393
+WY,switch,crop introduction,producer's accuracy,3563,state,mean,0.8156210640541338,0.854479743416393
+WY,no switch,crop discontinuation,user's accuracy,28586,state,mean,0.8805107593683519,0.854479743416393
+WY,no switch,crop discontinuation,producer's accuracy,28586,state,mean,0.8736477535128865,0.854479743416393
+WY,no switch,crop introduction,user's accuracy,28669,state,mean,0.8781377119999054,0.854479743416393
+WY,no switch,crop introduction,producer's accuracy,28669,state,mean,0.8721034091006189,0.854479743416393
+WY,overall,crop discontinuation,user's accuracy,32232,state,mean,0.7971147029998038,0.854479743416393
+WY,overall,crop discontinuation,producer's accuracy,32232,state,mean,0.7958855051733434,0.854479743416393
+WY,overall,crop introduction,user's accuracy,32232,state,mean,0.7964538342399299,0.854479743416393
+WY,overall,crop introduction,producer's accuracy,32232,state,mean,0.7960807515599643,0.854479743416393
+WY,switch,crop discontinuation,user's accuracy,3646,state,median,0.8704634042451627,0.854479743416393
+WY,switch,crop discontinuation,producer's accuracy,3646,state,median,0.8387257014170174,0.854479743416393
+WY,switch,crop introduction,user's accuracy,3563,state,median,0.872592744732475,0.854479743416393
+WY,switch,crop introduction,producer's accuracy,3563,state,median,0.8397004373928401,0.854479743416393
+WY,no switch,crop discontinuation,user's accuracy,28586,state,median,0.8814685837021239,0.854479743416393
+WY,no switch,crop discontinuation,producer's accuracy,28586,state,median,0.8878850060791105,0.854479743416393
+WY,no switch,crop introduction,user's accuracy,28669,state,median,0.8792056048421225,0.854479743416393
+WY,no switch,crop introduction,producer's accuracy,28669,state,median,0.8861482757438993,0.854479743416393
+WY,overall,crop discontinuation,user's accuracy,32232,state,median,0.8762032811111409,0.854479743416393
+WY,overall,crop discontinuation,producer's accuracy,32232,state,median,0.8819398882898567,0.854479743416393
+WY,overall,crop introduction,user's accuracy,32232,state,median,0.8745028258604733,0.854479743416393
+WY,overall,crop introduction,producer's accuracy,32232,state,median,0.8817816717086746,0.854479743416393
+VT,switch,crop discontinuation,user's accuracy,41,state,mean,0.8359813904916172,0.8549866708708967
+VT,switch,crop discontinuation,producer's accuracy,41,state,mean,0.656140962643287,0.8549866708708967
+VT,switch,crop introduction,user's accuracy,36,state,mean,0.8411066554532993,0.8549866708708967
+VT,switch,crop introduction,producer's accuracy,36,state,mean,0.6846706649843565,0.8549866708708967
+VT,no switch,crop discontinuation,user's accuracy,2311,state,mean,0.9190737535189971,0.8549866708708967
+VT,no switch,crop discontinuation,producer's accuracy,2311,state,mean,0.8903603712734056,0.8549866708708967
+VT,no switch,crop introduction,user's accuracy,2316,state,mean,0.9175805808437396,0.8549866708708967
+VT,no switch,crop introduction,producer's accuracy,2316,state,mean,0.8882476349639975,0.8549866708708967
+VT,overall,crop discontinuation,user's accuracy,2352,state,mean,0.9059116527943223,0.8549866708708967
+VT,overall,crop discontinuation,producer's accuracy,2352,state,mean,0.8808337748913546,0.8549866708708967
+VT,overall,crop introduction,user's accuracy,2352,state,mean,0.9059680211044991,0.8549866708708967
+VT,overall,crop introduction,producer's accuracy,2352,state,mean,0.879478477311727,0.8549866708708967
+VT,switch,crop discontinuation,user's accuracy,41,state,median,0.8601519830500746,0.8549866708708967
+VT,switch,crop discontinuation,producer's accuracy,41,state,median,0.7289849788395691,0.8549866708708967
+VT,switch,crop introduction,user's accuracy,36,state,median,0.8601519830500746,0.8549866708708967
+VT,switch,crop introduction,producer's accuracy,36,state,median,0.6928370580539838,0.8549866708708967
+VT,no switch,crop discontinuation,user's accuracy,2311,state,median,0.9141634809333953,0.8549866708708967
+VT,no switch,crop discontinuation,producer's accuracy,2311,state,median,0.8789528828175859,0.8549866708708967
+VT,no switch,crop introduction,user's accuracy,2316,state,median,0.9141634809333953,0.8549866708708967
+VT,no switch,crop introduction,producer's accuracy,2316,state,median,0.8788644503606832,0.8549866708708967
+VT,overall,crop discontinuation,user's accuracy,2352,state,median,0.9141634809333953,0.8549866708708967
+VT,overall,crop discontinuation,producer's accuracy,2352,state,median,0.8788644503606832,0.8549866708708967
+VT,overall,crop introduction,user's accuracy,2352,state,median,0.9141634809333953,0.8549866708708967
+VT,overall,crop introduction,producer's accuracy,2352,state,median,0.8788644503606832,0.8549866708708967
+NC,switch,crop discontinuation,user's accuracy,25855,state,mean,0.8174092051915597,0.8552776980587692
+NC,switch,crop discontinuation,producer's accuracy,25855,state,mean,0.7504100269597398,0.8552776980587692
+NC,switch,crop introduction,user's accuracy,21513,state,mean,0.8258640585606973,0.8552776980587692
+NC,switch,crop introduction,producer's accuracy,21513,state,mean,0.7572381002275388,0.8552776980587692
+NC,no switch,crop discontinuation,user's accuracy,153161,state,mean,0.9120615846191878,0.8552776980587692
+NC,no switch,crop discontinuation,producer's accuracy,153161,state,mean,0.8977815951711247,0.8552776980587692
+NC,no switch,crop introduction,user's accuracy,157503,state,mean,0.9125088449689185,0.8552776980587692
+NC,no switch,crop introduction,producer's accuracy,157503,state,mean,0.8959751143979184,0.8552776980587692
+NC,overall,crop discontinuation,user's accuracy,179016,state,mean,0.8067052630023677,0.8552776980587692
+NC,overall,crop discontinuation,producer's accuracy,179016,state,mean,0.8041642962135264,0.8552776980587692
+NC,overall,crop introduction,user's accuracy,179016,state,mean,0.823775903367985,0.8552776980587692
+NC,overall,crop introduction,producer's accuracy,179016,state,mean,0.8174761205301221,0.8552776980587692
+NC,switch,crop discontinuation,user's accuracy,25855,state,median,0.8281794903693721,0.8552776980587692
+NC,switch,crop discontinuation,producer's accuracy,25855,state,median,0.7807171756533595,0.8552776980587692
+NC,switch,crop introduction,user's accuracy,21513,state,median,0.8524283432894807,0.8552776980587692
+NC,switch,crop introduction,producer's accuracy,21513,state,median,0.7790671677652747,0.8552776980587692
+NC,no switch,crop discontinuation,user's accuracy,153161,state,median,0.9215121925243063,0.8552776980587692
+NC,no switch,crop discontinuation,producer's accuracy,153161,state,median,0.9098351188851808,0.8552776980587692
+NC,no switch,crop introduction,user's accuracy,157503,state,median,0.9181517472164814,0.8552776980587692
+NC,no switch,crop introduction,producer's accuracy,157503,state,median,0.9040054122153087,0.8552776980587692
+NC,overall,crop discontinuation,user's accuracy,179016,state,median,0.9102561816498769,0.8552776980587692
+NC,overall,crop discontinuation,producer's accuracy,179016,state,median,0.8964728420503918,0.8552776980587692
+NC,overall,crop introduction,user's accuracy,179016,state,median,0.9093116490881122,0.8552776980587692
+NC,overall,crop introduction,producer's accuracy,179016,state,median,0.8953573194926281,0.8552776980587692
+NY,switch,crop discontinuation,user's accuracy,8994,state,mean,0.857046196364657,0.8603026934883622
+NY,switch,crop discontinuation,producer's accuracy,8994,state,mean,0.7823063234416008,0.8603026934883622
+NY,switch,crop introduction,user's accuracy,8489,state,mean,0.8558910161024821,0.8603026934883622
+NY,switch,crop introduction,producer's accuracy,8489,state,mean,0.7886315508203889,0.8603026934883622
+NY,no switch,crop discontinuation,user's accuracy,73630,state,mean,0.8968798426071233,0.8603026934883622
+NY,no switch,crop discontinuation,producer's accuracy,73630,state,mean,0.8796250979607235,0.8603026934883622
+NY,no switch,crop introduction,user's accuracy,74135,state,mean,0.8919182072807175,0.8603026934883622
+NY,no switch,crop introduction,producer's accuracy,74135,state,mean,0.8734799532715579,0.8603026934883622
+NY,overall,crop discontinuation,user's accuracy,82624,state,mean,0.8148115477471286,0.8603026934883622
+NY,overall,crop discontinuation,producer's accuracy,82624,state,mean,0.8075708376478299,0.8603026934883622
+NY,overall,crop introduction,user's accuracy,82624,state,mean,0.8150863848405064,0.8603026934883622
+NY,overall,crop introduction,producer's accuracy,82624,state,mean,0.8054529325725299,0.8603026934883622
+NY,switch,crop discontinuation,user's accuracy,8994,state,median,0.8612493526804905,0.8603026934883622
+NY,switch,crop discontinuation,producer's accuracy,8994,state,median,0.8006394584428675,0.8603026934883622
+NY,switch,crop introduction,user's accuracy,8489,state,median,0.8610990311481707,0.8603026934883622
+NY,switch,crop introduction,producer's accuracy,8489,state,median,0.8162887827460892,0.8603026934883622
+NY,no switch,crop discontinuation,user's accuracy,73630,state,median,0.9193284244868575,0.8603026934883622
+NY,no switch,crop discontinuation,producer's accuracy,73630,state,median,0.8991791062641642,0.8603026934883622
+NY,no switch,crop introduction,user's accuracy,74135,state,median,0.9141114249041677,0.8603026934883622
+NY,no switch,crop introduction,producer's accuracy,74135,state,median,0.8962161908906568,0.8603026934883622
+NY,overall,crop discontinuation,user's accuracy,82624,state,median,0.91242655432622,0.8603026934883622
+NY,overall,crop discontinuation,producer's accuracy,82624,state,median,0.8949013023255828,0.8603026934883622
+NY,overall,crop introduction,user's accuracy,82624,state,median,0.9105771315967907,0.8603026934883622
+NY,overall,crop introduction,producer's accuracy,82624,state,median,0.8925479932513901,0.8603026934883622
+CA,switch,crop discontinuation,user's accuracy,58516,state,mean,0.8707787679919182,0.8624876914594183
+CA,switch,crop discontinuation,producer's accuracy,58516,state,mean,0.8434667731068431,0.8624876914594183
+CA,switch,crop introduction,user's accuracy,44083,state,mean,0.8575893345634669,0.8624876914594183
+CA,switch,crop introduction,producer's accuracy,44083,state,mean,0.8423406136442269,0.8624876914594183
+CA,no switch,crop discontinuation,user's accuracy,300652,state,mean,0.8724740154963445,0.8624876914594183
+CA,no switch,crop discontinuation,producer's accuracy,300652,state,mean,0.878982327598408,0.8624876914594183
+CA,no switch,crop introduction,user's accuracy,315085,state,mean,0.8724347886087306,0.8624876914594183
+CA,no switch,crop introduction,producer's accuracy,315085,state,mean,0.87962946834121,0.8624876914594183
+CA,overall,crop discontinuation,user's accuracy,359168,state,mean,0.7513825488885175,0.8624876914594183
+CA,overall,crop discontinuation,producer's accuracy,359168,state,mean,0.7612802172298124,0.8624876914594183
+CA,overall,crop introduction,user's accuracy,359168,state,mean,0.7828342300350285,0.8624876914594183
+CA,overall,crop introduction,producer's accuracy,359168,state,mean,0.7910174340726638,0.8624876914594183
+CA,switch,crop discontinuation,user's accuracy,58516,state,median,0.9056341563372283,0.8624876914594183
+CA,switch,crop discontinuation,producer's accuracy,58516,state,median,0.8790458287057217,0.8624876914594183
+CA,switch,crop introduction,user's accuracy,44083,state,median,0.8909073367346387,0.8624876914594183
+CA,switch,crop introduction,producer's accuracy,44083,state,median,0.8723666209002626,0.8624876914594183
+CA,no switch,crop discontinuation,user's accuracy,300652,state,median,0.8960191918389697,0.8624876914594183
+CA,no switch,crop discontinuation,producer's accuracy,300652,state,median,0.9080456072860963,0.8624876914594183
+CA,no switch,crop introduction,user's accuracy,315085,state,median,0.9001579104720897,0.8624876914594183
+CA,no switch,crop introduction,producer's accuracy,315085,state,median,0.9094100186314589,0.8624876914594183
+CA,overall,crop discontinuation,user's accuracy,359168,state,median,0.8705456048405174,0.8624876914594183
+CA,overall,crop discontinuation,producer's accuracy,359168,state,median,0.8838529801726338,0.8624876914594183
+CA,overall,crop introduction,user's accuracy,359168,state,median,0.8818159496719338,0.8624876914594183
+CA,overall,crop introduction,producer's accuracy,359168,state,median,0.8976928698573168,0.8624876914594183
+WV,switch,crop discontinuation,user's accuracy,157,state,mean,0.826071902056661,0.8649312500385071
+WV,switch,crop discontinuation,producer's accuracy,157,state,mean,0.7279229986862428,0.8649312500385071
+WV,switch,crop introduction,user's accuracy,107,state,mean,0.8219996049668034,0.8649312500385071
+WV,switch,crop introduction,producer's accuracy,107,state,mean,0.7582360562298796,0.8649312500385071
+WV,no switch,crop discontinuation,user's accuracy,2003,state,mean,0.9178355805349742,0.8649312500385071
+WV,no switch,crop discontinuation,producer's accuracy,2003,state,mean,0.8974681205562668,0.8649312500385071
+WV,no switch,crop introduction,user's accuracy,2053,state,mean,0.9165095794438052,0.8649312500385071
+WV,no switch,crop introduction,producer's accuracy,2053,state,mean,0.8964562675963663,0.8649312500385071
+WV,overall,crop discontinuation,user's accuracy,2160,state,mean,0.8637645274021563,0.8649312500385071
+WV,overall,crop discontinuation,producer's accuracy,2160,state,mean,0.8520114512409548,0.8649312500385071
+WV,overall,crop introduction,user's accuracy,2160,state,mean,0.8799260226234649,0.8649312500385071
+WV,overall,crop introduction,producer's accuracy,2160,state,mean,0.8640247497031217,0.8649312500385071
+WV,switch,crop discontinuation,user's accuracy,157,state,median,0.8441946408150905,0.8649312500385071
+WV,switch,crop discontinuation,producer's accuracy,157,state,median,0.7819770256982128,0.8649312500385071
+WV,switch,crop introduction,user's accuracy,107,state,median,0.8294757890973384,0.8649312500385071
+WV,switch,crop introduction,producer's accuracy,107,state,median,0.7960115396868007,0.8649312500385071
+WV,no switch,crop discontinuation,user's accuracy,2003,state,median,0.9254975098191298,0.8649312500385071
+WV,no switch,crop discontinuation,producer's accuracy,2003,state,median,0.8986622889722738,0.8649312500385071
+WV,no switch,crop introduction,user's accuracy,2053,state,median,0.9230787951782604,0.8649312500385071
+WV,no switch,crop introduction,producer's accuracy,2053,state,median,0.8982860286573906,0.8649312500385071
+WV,overall,crop discontinuation,user's accuracy,2160,state,median,0.9225573597019809,0.8649312500385071
+WV,overall,crop discontinuation,producer's accuracy,2160,state,median,0.897748850796648,0.8649312500385071
+WV,overall,crop introduction,user's accuracy,2160,state,median,0.9214178375496581,0.8649312500385071
+WV,overall,crop introduction,producer's accuracy,2160,state,median,0.897215473910691,0.8649312500385071
+VA,switch,crop discontinuation,user's accuracy,5408,state,mean,0.8360016086232337,0.8655957808200597
+VA,switch,crop discontinuation,producer's accuracy,5408,state,mean,0.7675999977844652,0.8655957808200597
+VA,switch,crop introduction,user's accuracy,4465,state,mean,0.8284562150910239,0.8655957808200597
+VA,switch,crop introduction,producer's accuracy,4465,state,mean,0.773811355141332,0.8655957808200597
+VA,no switch,crop discontinuation,user's accuracy,45600,state,mean,0.9182091983910039,0.8655957808200597
+VA,no switch,crop discontinuation,producer's accuracy,45600,state,mean,0.8952508657432608,0.8655957808200597
+VA,no switch,crop introduction,user's accuracy,46543,state,mean,0.9202191063484839,0.8655957808200597
+VA,no switch,crop introduction,producer's accuracy,46543,state,mean,0.8971003973329521,0.8655957808200597
+VA,overall,crop discontinuation,user's accuracy,51008,state,mean,0.838245819228265,0.8655957808200597
+VA,overall,crop discontinuation,producer's accuracy,51008,state,mean,0.8249737039263311,0.8655957808200597
+VA,overall,crop introduction,user's accuracy,51008,state,mean,0.8546835960319178,0.8655957808200597
+VA,overall,crop introduction,producer's accuracy,51008,state,mean,0.8383719434669378,0.8655957808200597
+VA,switch,crop discontinuation,user's accuracy,5408,state,median,0.845913016965833,0.8655957808200597
+VA,switch,crop discontinuation,producer's accuracy,5408,state,median,0.8095269802504701,0.8655957808200597
+VA,switch,crop introduction,user's accuracy,4465,state,median,0.8370141206716806,0.8655957808200597
+VA,switch,crop introduction,producer's accuracy,4465,state,median,0.8017882113671381,0.8655957808200597
+VA,no switch,crop discontinuation,user's accuracy,45600,state,median,0.9263596245996151,0.8655957808200597
+VA,no switch,crop discontinuation,producer's accuracy,45600,state,median,0.8991948939724643,0.8655957808200597
+VA,no switch,crop introduction,user's accuracy,46543,state,median,0.9269039892798292,0.8655957808200597
+VA,no switch,crop introduction,producer's accuracy,46543,state,median,0.8988695006671251,0.8655957808200597
+VA,overall,crop discontinuation,user's accuracy,51008,state,median,0.9209633094364319,0.8655957808200597
+VA,overall,crop discontinuation,producer's accuracy,51008,state,median,0.8957915231317096,0.8655957808200597
+VA,overall,crop introduction,user's accuracy,51008,state,median,0.9231236804652514,0.8655957808200597
+VA,overall,crop introduction,producer's accuracy,51008,state,median,0.8959260817646766,0.8655957808200597
+Eastern Uplands,switch,crop discontinuation,user's accuracy,8202,region,mean,0.8111046147607417,0.8732258338196011
+Eastern Uplands,switch,crop discontinuation,producer's accuracy,8202,region,mean,0.7687508037657834,0.8732258338196011
+Eastern Uplands,switch,crop introduction,user's accuracy,6537,region,mean,0.8065749549414403,0.8732258338196011
+Eastern Uplands,switch,crop introduction,producer's accuracy,6537,region,mean,0.7781228189702281,0.8732258338196011
+Eastern Uplands,no switch,crop discontinuation,user's accuracy,89870,region,mean,0.9291259225268326,0.8732258338196011
+Eastern Uplands,no switch,crop discontinuation,producer's accuracy,89870,region,mean,0.899412962653203,0.8732258338196011
+Eastern Uplands,no switch,crop introduction,user's accuracy,91535,region,mean,0.9286777434790495,0.8732258338196011
+Eastern Uplands,no switch,crop introduction,producer's accuracy,91535,region,mean,0.8990497307765489,0.8732258338196011
+Eastern Uplands,overall,crop discontinuation,user's accuracy,98072,region,mean,0.867218641479921,0.8732258338196011
+Eastern Uplands,overall,crop discontinuation,producer's accuracy,98072,region,mean,0.843532801015136,0.8732258338196011
+Eastern Uplands,overall,crop introduction,user's accuracy,98072,region,mean,0.8796693935975878,0.8732258338196011
+Eastern Uplands,overall,crop introduction,producer's accuracy,98072,region,mean,0.8539127196245926,0.8732258338196011
+Eastern Uplands,switch,crop discontinuation,user's accuracy,8202,region,median,0.8328623745108963,0.8732258338196011
+Eastern Uplands,switch,crop discontinuation,producer's accuracy,8202,region,median,0.8114729433852013,0.8732258338196011
+Eastern Uplands,switch,crop introduction,user's accuracy,6537,region,median,0.830152281374642,0.8732258338196011
+Eastern Uplands,switch,crop introduction,producer's accuracy,6537,region,median,0.8168304052015013,0.8732258338196011
+Eastern Uplands,no switch,crop discontinuation,user's accuracy,89870,region,median,0.9449854912728172,0.8732258338196011
+Eastern Uplands,no switch,crop discontinuation,producer's accuracy,89870,region,median,0.9092923250874124,0.8732258338196011
+Eastern Uplands,no switch,crop introduction,user's accuracy,91535,region,median,0.944781271274721,0.8732258338196011
+Eastern Uplands,no switch,crop introduction,producer's accuracy,91535,region,median,0.9094367121617348,0.8732258338196011
+Eastern Uplands,overall,crop discontinuation,user's accuracy,98072,region,median,0.9415878449875129,0.8732258338196011
+Eastern Uplands,overall,crop discontinuation,producer's accuracy,98072,region,median,0.9036086515707988,0.8732258338196011
+Eastern Uplands,overall,crop introduction,user's accuracy,98072,region,median,0.9421607839038827,0.8732258338196011
+Eastern Uplands,overall,crop introduction,producer's accuracy,98072,region,median,0.9050958193482399,0.8732258338196011
+CO,switch,crop discontinuation,user's accuracy,28194,state,mean,0.8359317311069695,0.8789014123933273
+CO,switch,crop discontinuation,producer's accuracy,28194,state,mean,0.7809561917168159,0.8789014123933273
+CO,switch,crop introduction,user's accuracy,36022,state,mean,0.8361821957413115,0.8789014123933273
+CO,switch,crop introduction,producer's accuracy,36022,state,mean,0.7942450122988015,0.8789014123933273
+CO,no switch,crop discontinuation,user's accuracy,357206,state,mean,0.9161649706343927,0.8789014123933273
+CO,no switch,crop discontinuation,producer's accuracy,357206,state,mean,0.9176656024566245,0.8789014123933273
+CO,no switch,crop introduction,user's accuracy,349378,state,mean,0.910467452120168,0.8789014123933273
+CO,no switch,crop introduction,producer's accuracy,349378,state,mean,0.9113400354352503,0.8789014123933273
+CO,overall,crop discontinuation,user's accuracy,385400,state,mean,0.8611452134758674,0.8789014123933273
+CO,overall,crop discontinuation,producer's accuracy,385400,state,mean,0.8665578109025898,0.8789014123933273
+CO,overall,crop introduction,user's accuracy,385400,state,mean,0.8406807016913513,0.8789014123933273
+CO,overall,crop introduction,producer's accuracy,385400,state,mean,0.8453914506156445,0.8789014123933273
+CO,switch,crop discontinuation,user's accuracy,28194,state,median,0.8593268393809546,0.8789014123933273
+CO,switch,crop discontinuation,producer's accuracy,28194,state,median,0.8080411580201219,0.8789014123933273
+CO,switch,crop introduction,user's accuracy,36022,state,median,0.8574302826254908,0.8789014123933273
+CO,switch,crop introduction,producer's accuracy,36022,state,median,0.8221088181101026,0.8789014123933273
+CO,no switch,crop discontinuation,user's accuracy,357206,state,median,0.9324402305650865,0.8789014123933273
+CO,no switch,crop discontinuation,producer's accuracy,357206,state,median,0.9365616338700548,0.8789014123933273
+CO,no switch,crop introduction,user's accuracy,349378,state,median,0.9260354364479368,0.8789014123933273
+CO,no switch,crop introduction,producer's accuracy,349378,state,median,0.9343218645838671,0.8789014123933273
+CO,overall,crop discontinuation,user's accuracy,385400,state,median,0.9245686571145183,0.8789014123933273
+CO,overall,crop discontinuation,producer's accuracy,385400,state,median,0.9320760258214245,0.8789014123933273
+CO,overall,crop introduction,user's accuracy,385400,state,median,0.9197305480135635,0.8789014123933273
+CO,overall,crop introduction,producer's accuracy,385400,state,median,0.9242640346909476,0.8789014123933273
+NH,switch,crop discontinuation,user's accuracy,2,state,mean,0.8734850792736861,0.8789894350273217
+NH,switch,crop discontinuation,producer's accuracy,2,state,mean,0.7608700512222644,0.8789894350273217
+NH,switch,crop introduction,user's accuracy,8,state,mean,0.8842725365273706,0.8789894350273217
+NH,switch,crop introduction,producer's accuracy,8,state,mean,0.8351765356717686,0.8789894350273217
+NH,no switch,crop discontinuation,user's accuracy,526,state,mean,0.9182658444778931,0.8789894350273217
+NH,no switch,crop discontinuation,producer's accuracy,526,state,mean,0.8933452853659636,0.8789894350273217
+NH,no switch,crop introduction,user's accuracy,520,state,mean,0.9165279757169241,0.8789894350273217
+NH,no switch,crop introduction,producer's accuracy,520,state,mean,0.8905246090404189,0.8789894350273217
+NH,overall,crop discontinuation,user's accuracy,528,state,mean,0.915266787948531,0.8789894350273217
+NH,overall,crop discontinuation,producer's accuracy,528,state,mean,0.8908671969697961,0.8789894350273217
+NH,overall,crop introduction,user's accuracy,528,state,mean,0.9043946346223136,0.8789894350273217
+NH,overall,crop introduction,producer's accuracy,528,state,mean,0.8795291371508402,0.8789894350273217
+NH,switch,crop discontinuation,user's accuracy,2,state,median,0.8734850792736861,0.8789894350273217
+NH,switch,crop discontinuation,producer's accuracy,2,state,median,0.7608700512222644,0.8789894350273217
+NH,switch,crop introduction,user's accuracy,8,state,median,0.8686347453723513,0.8789894350273217
+NH,switch,crop introduction,producer's accuracy,8,state,median,0.8534172473353547,0.8789894350273217
+NH,no switch,crop discontinuation,user's accuracy,526,state,median,0.9141634809333953,0.8789894350273217
+NH,no switch,crop discontinuation,producer's accuracy,526,state,median,0.8823408374446489,0.8789894350273217
+NH,no switch,crop introduction,user's accuracy,520,state,median,0.9138100322611076,0.8789894350273217
+NH,no switch,crop introduction,producer's accuracy,520,state,median,0.8788644503606832,0.8789894350273217
+NH,overall,crop discontinuation,user's accuracy,528,state,median,0.9141634809333953,0.8789894350273217
+NH,overall,crop discontinuation,producer's accuracy,528,state,median,0.8823408374446489,0.8789894350273217
+NH,overall,crop introduction,user's accuracy,528,state,median,0.9122660737257317,0.8789894350273217
+NH,overall,crop introduction,producer's accuracy,528,state,median,0.8788644503606832,0.8789894350273217
+Prairie Gateway,switch,crop discontinuation,user's accuracy,240541,region,mean,0.8226780065581413,0.8792774450896167
+Prairie Gateway,switch,crop discontinuation,producer's accuracy,240541,region,mean,0.7737269729305006,0.8792774450896167
+Prairie Gateway,switch,crop introduction,user's accuracy,272740,region,mean,0.838260594867552,0.8792774450896167
+Prairie Gateway,switch,crop introduction,producer's accuracy,272740,region,mean,0.7930186294751506,0.8792774450896167
+Prairie Gateway,no switch,crop discontinuation,user's accuracy,2958571,region,mean,0.9163043179520323,0.8792774450896167
+Prairie Gateway,no switch,crop discontinuation,producer's accuracy,2958571,region,mean,0.9150779699251901,0.8792774450896167
+Prairie Gateway,no switch,crop introduction,user's accuracy,2926372,region,mean,0.9148613843552621,0.8792774450896167
+Prairie Gateway,no switch,crop introduction,producer's accuracy,2926372,region,mean,0.9120982357013829,0.8792774450896167
+Prairie Gateway,overall,crop discontinuation,user's accuracy,3199112,region,mean,0.8607402903969537,0.8792774450896167
+Prairie Gateway,overall,crop discontinuation,producer's accuracy,3199112,region,mean,0.8632867760690855,0.8792774450896167
+Prairie Gateway,overall,crop introduction,user's accuracy,3199112,region,mean,0.8506540391253253,0.8792774450896167
+Prairie Gateway,overall,crop introduction,producer's accuracy,3199112,region,mean,0.8519835620643696,0.8792774450896167
+Prairie Gateway,switch,crop discontinuation,user's accuracy,240541,region,median,0.8472270644830651,0.8792774450896167
+Prairie Gateway,switch,crop discontinuation,producer's accuracy,240541,region,median,0.8216313181362803,0.8792774450896167
+Prairie Gateway,switch,crop introduction,user's accuracy,272740,region,median,0.8638184441894284,0.8792774450896167
+Prairie Gateway,switch,crop introduction,producer's accuracy,272740,region,median,0.8392668076283709,0.8792774450896167
+Prairie Gateway,no switch,crop discontinuation,user's accuracy,2958571,region,median,0.9314015702164531,0.8792774450896167
+Prairie Gateway,no switch,crop discontinuation,producer's accuracy,2958571,region,median,0.9282556060774063,0.8792774450896167
+Prairie Gateway,no switch,crop introduction,user's accuracy,2926372,region,median,0.9307485893934311,0.8792774450896167
+Prairie Gateway,no switch,crop introduction,producer's accuracy,2926372,region,median,0.9274300742392839,0.8792774450896167
+Prairie Gateway,overall,crop discontinuation,user's accuracy,3199112,region,median,0.927408169881343,0.8792774450896167
+Prairie Gateway,overall,crop discontinuation,producer's accuracy,3199112,region,median,0.9246189038867252,0.8792774450896167
+Prairie Gateway,overall,crop introduction,user's accuracy,3199112,region,median,0.9251847732721672,0.8792774450896167
+Prairie Gateway,overall,crop introduction,producer's accuracy,3199112,region,median,0.9229765813258992,0.8792774450896167
+ND,switch,crop discontinuation,user's accuracy,151312,state,mean,0.8878864894809841,0.8795059150643055
+ND,switch,crop discontinuation,producer's accuracy,151312,state,mean,0.8091206282280909,0.8795059150643055
+ND,switch,crop introduction,user's accuracy,149616,state,mean,0.9038673130241827,0.8795059150643055
+ND,switch,crop introduction,producer's accuracy,149616,state,mean,0.8517512906687413,0.8795059150643055
+ND,no switch,crop discontinuation,user's accuracy,953992,state,mean,0.89568364784361,0.8795059150643055
+ND,no switch,crop discontinuation,producer's accuracy,953992,state,mean,0.8971137123083517,0.8795059150643055
+ND,no switch,crop introduction,user's accuracy,955688,state,mean,0.900067462605205,0.8795059150643055
+ND,no switch,crop introduction,producer's accuracy,955688,state,mean,0.9030956468130326,0.8795059150643055
+ND,overall,crop discontinuation,user's accuracy,1105304,state,mean,0.7884158150855092,0.8795059150643055
+ND,overall,crop discontinuation,producer's accuracy,1105304,state,mean,0.800432862030735,0.8795059150643055
+ND,overall,crop introduction,user's accuracy,1105304,state,mean,0.7912453599162019,0.8795059150643055
+ND,overall,crop introduction,producer's accuracy,1105304,state,mean,0.800918164963448,0.8795059150643055
+ND,switch,crop discontinuation,user's accuracy,151312,state,median,0.9090418645598646,0.8795059150643055
+ND,switch,crop discontinuation,producer's accuracy,151312,state,median,0.8523170810634436,0.8795059150643055
+ND,switch,crop introduction,user's accuracy,149616,state,median,0.9296731905487604,0.8795059150643055
+ND,switch,crop introduction,producer's accuracy,149616,state,median,0.9019546336334054,0.8795059150643055
+ND,no switch,crop discontinuation,user's accuracy,953992,state,median,0.902762888341661,0.8795059150643055
+ND,no switch,crop discontinuation,producer's accuracy,953992,state,median,0.923950086957196,0.8795059150643055
+ND,no switch,crop introduction,user's accuracy,955688,state,median,0.9060631994919818,0.8795059150643055
+ND,no switch,crop introduction,producer's accuracy,955688,state,median,0.9239717447351162,0.8795059150643055
+ND,overall,crop discontinuation,user's accuracy,1105304,state,median,0.894857960909991,0.8795059150643055
+ND,overall,crop discontinuation,producer's accuracy,1105304,state,median,0.9180125668107001,0.8795059150643055
+ND,overall,crop introduction,user's accuracy,1105304,state,median,0.8976735460815973,0.8795059150643055
+ND,overall,crop introduction,producer's accuracy,1105304,state,median,0.9182648054415219,0.8795059150643055
+Basin and Range,switch,crop discontinuation,user's accuracy,40942,region,mean,0.8528154867149076,0.8799053800619023
+Basin and Range,switch,crop discontinuation,producer's accuracy,40942,region,mean,0.802156188981321,0.8799053800619023
+Basin and Range,switch,crop introduction,user's accuracy,47171,region,mean,0.8792224826594085,0.8799053800619023
+Basin and Range,switch,crop introduction,producer's accuracy,47171,region,mean,0.840062704813514,0.8799053800619023
+Basin and Range,no switch,crop discontinuation,user's accuracy,383938,region,mean,0.9029949194054757,0.8799053800619023
+Basin and Range,no switch,crop discontinuation,producer's accuracy,383938,region,mean,0.8973327953827428,0.8799053800619023
+Basin and Range,no switch,crop introduction,user's accuracy,377709,region,mean,0.9050107151255334,0.8799053800619023
+Basin and Range,no switch,crop introduction,producer's accuracy,377709,region,mean,0.9002697648780738,0.8799053800619023
+Basin and Range,overall,crop discontinuation,user's accuracy,424880,region,mean,0.8301640268066711,0.8799053800619023
+Basin and Range,overall,crop discontinuation,producer's accuracy,424880,region,mean,0.8299291096412771,0.8799053800619023
+Basin and Range,overall,crop introduction,user's accuracy,424880,region,mean,0.8179436275414731,0.8799053800619023
+Basin and Range,overall,crop introduction,producer's accuracy,424880,region,mean,0.8180766211014271,0.8799053800619023
+Basin and Range,switch,crop discontinuation,user's accuracy,40942,region,median,0.8724036184124723,0.8799053800619023
+Basin and Range,switch,crop discontinuation,producer's accuracy,40942,region,median,0.8288531034026727,0.8799053800619023
+Basin and Range,switch,crop introduction,user's accuracy,47171,region,median,0.8984335943242732,0.8799053800619023
+Basin and Range,switch,crop introduction,producer's accuracy,47171,region,median,0.872011634839565,0.8799053800619023
+Basin and Range,no switch,crop discontinuation,user's accuracy,383938,region,median,0.9269198538887693,0.8799053800619023
+Basin and Range,no switch,crop discontinuation,producer's accuracy,383938,region,median,0.9292824132723734,0.8799053800619023
+Basin and Range,no switch,crop introduction,user's accuracy,377709,region,median,0.9270781318473104,0.8799053800619023
+Basin and Range,no switch,crop introduction,producer's accuracy,377709,region,median,0.9293027553336604,0.8799053800619023
+Basin and Range,overall,crop discontinuation,user's accuracy,424880,region,median,0.912516560523698,0.8799053800619023
+Basin and Range,overall,crop discontinuation,producer's accuracy,424880,region,median,0.9178430869224751,0.8799053800619023
+Basin and Range,overall,crop introduction,user's accuracy,424880,region,median,0.9102231788149948,0.8799053800619023
+Basin and Range,overall,crop introduction,producer's accuracy,424880,region,median,0.9168827468515658,0.8799053800619023
+Northern Great Plains,switch,crop discontinuation,user's accuracy,288213,region,mean,0.8812978937167353,0.880572958627558
+Northern Great Plains,switch,crop discontinuation,producer's accuracy,288213,region,mean,0.8153071107855311,0.880572958627558
+Northern Great Plains,switch,crop introduction,user's accuracy,335127,region,mean,0.8898650147793349,0.880572958627558
+Northern Great Plains,switch,crop introduction,producer's accuracy,335127,region,mean,0.8369492004718045,0.880572958627558
+Northern Great Plains,no switch,crop discontinuation,user's accuracy,2231571,region,mean,0.9035699189160875,0.880572958627558
+Northern Great Plains,no switch,crop discontinuation,producer's accuracy,2231571,region,mean,0.9022932743656349,0.880572958627558
+Northern Great Plains,no switch,crop introduction,user's accuracy,2184657,region,mean,0.9040647336229755,0.880572958627558
+Northern Great Plains,no switch,crop introduction,producer's accuracy,2184657,region,mean,0.9054082052498652,0.880572958627558
+Northern Great Plains,overall,crop discontinuation,user's accuracy,2519784,region,mean,0.8137967054651166,0.880572958627558
+Northern Great Plains,overall,crop discontinuation,producer's accuracy,2519784,region,mean,0.8202141121018969,0.880572958627558
+Northern Great Plains,overall,crop introduction,user's accuracy,2519784,region,mean,0.7984734231007926,0.880572958627558
+Northern Great Plains,overall,crop introduction,producer's accuracy,2519784,region,mean,0.8066759288693157,0.880572958627558
+Northern Great Plains,switch,crop discontinuation,user's accuracy,288213,region,median,0.8990133390845433,0.880572958627558
+Northern Great Plains,switch,crop discontinuation,producer's accuracy,288213,region,median,0.8514256741931348,0.880572958627558
+Northern Great Plains,switch,crop introduction,user's accuracy,335127,region,median,0.9082589308412362,0.880572958627558
+Northern Great Plains,switch,crop introduction,producer's accuracy,335127,region,median,0.8688988461125806,0.880572958627558
+Northern Great Plains,no switch,crop discontinuation,user's accuracy,2231571,region,median,0.9165713687208609,0.880572958627558
+Northern Great Plains,no switch,crop discontinuation,producer's accuracy,2231571,region,median,0.9254018193778211,0.880572958627558
+Northern Great Plains,no switch,crop introduction,user's accuracy,2184657,region,median,0.9199248618738596,0.880572958627558
+Northern Great Plains,no switch,crop introduction,producer's accuracy,2184657,region,median,0.9264805738538464,0.880572958627558
+Northern Great Plains,overall,crop discontinuation,user's accuracy,2519784,region,median,0.9003816583653645,0.880572958627558
+Northern Great Plains,overall,crop discontinuation,producer's accuracy,2519784,region,median,0.9187838211587527,0.880572958627558
+Northern Great Plains,overall,crop introduction,user's accuracy,2519784,region,median,0.9017830864625374,0.880572958627558
+Northern Great Plains,overall,crop introduction,producer's accuracy,2519784,region,median,0.9189115055717649,0.880572958627558
+NV,switch,crop discontinuation,user's accuracy,804,state,mean,0.82067816655552706,0.881389624963512
+NV,switch,crop discontinuation,producer's accuracy,804,state,mean,0.698938467222905,0.881389624963512
+NV,switch,crop introduction,user's accuracy,767,state,mean,0.8471882762042303,0.881389624963512
+NV,switch,crop introduction,producer's accuracy,767,state,mean,0.737610528088963,0.881389624963512
+NV,no switch,crop discontinuation,user's accuracy,9836,state,mean,0.918559886609216,0.881389624963512
+NV,no switch,crop discontinuation,producer's accuracy,9836,state,mean,0.9397231856279322,0.881389624963512
+NV,no switch,crop introduction,user's accuracy,9873,state,mean,0.9183080261327607,0.881389624963512
+NV,no switch,crop introduction,producer's accuracy,9873,state,mean,0.9398956468101064,0.881389624963512
+NV,overall,crop discontinuation,user's accuracy,10640,state,mean,0.8627001690580455,0.881389624963512
+NV,overall,crop discontinuation,producer's accuracy,10640,state,mean,0.8914634141155192,0.881389624963512
+NV,overall,crop introduction,user's accuracy,10640,state,mean,0.863126102834596,0.881389624963512
+NV,overall,crop introduction,producer's accuracy,10640,state,mean,0.8910566208563858,0.881389624963512
+NV,switch,crop discontinuation,user's accuracy,804,state,median,0.8726129314706274,0.881389624963512
+NV,switch,crop discontinuation,producer's accuracy,804,state,median,0.768850936813719,0.881389624963512
+NV,switch,crop introduction,user's accuracy,767,state,median,0.8758911090157907,0.881389624963512
+NV,switch,crop introduction,producer's accuracy,767,state,median,0.7769714921161134,0.881389624963512
+NV,no switch,crop discontinuation,user's accuracy,9836,state,median,0.9290427141490389,0.881389624963512
+NV,no switch,crop discontinuation,producer's accuracy,9836,state,median,0.9569840442227332,0.881389624963512
+NV,no switch,crop introduction,user's accuracy,9873,state,median,0.9281826374029284,0.881389624963512
+NV,no switch,crop introduction,producer's accuracy,9873,state,median,0.9565946884155796,0.881389624963512
+NV,overall,crop discontinuation,user's accuracy,10640,state,median,0.9246634603952826,0.881389624963512
+NV,overall,crop discontinuation,producer's accuracy,10640,state,median,0.9551786289584389,0.881389624963512
+NV,overall,crop introduction,user's accuracy,10640,state,median,0.9247750992982042,0.881389624963512
+NV,overall,crop introduction,producer's accuracy,10640,state,median,0.9543547667496464,0.881389624963512
+Fruitful Rim,switch,crop discontinuation,user's accuracy,125332,region,mean,0.8606330659688737,0.8821355358447125
+Fruitful Rim,switch,crop discontinuation,producer's accuracy,125332,region,mean,0.8291114138025302,0.8821355358447125
+Fruitful Rim,switch,crop introduction,user's accuracy,105743,region,mean,0.8619708819147376,0.8821355358447125
+Fruitful Rim,switch,crop introduction,producer's accuracy,105743,region,mean,0.8377762680600324,0.8821355358447125
+Fruitful Rim,no switch,crop discontinuation,user's accuracy,906948,region,mean,0.9026701178281188,0.8821355358447125
+Fruitful Rim,no switch,crop discontinuation,producer's accuracy,906948,region,mean,0.8988030443834979,0.8821355358447125
+Fruitful Rim,no switch,crop introduction,user's accuracy,926537,region,mean,0.9034655122435087,0.8821355358447125
+Fruitful Rim,no switch,crop introduction,producer's accuracy,926537,region,mean,0.9006124033573086,0.8821355358447125
+Fruitful Rim,overall,crop discontinuation,user's accuracy,1032280,region,mean,0.8099953448676399,0.8821355358447125
+Fruitful Rim,overall,crop discontinuation,producer's accuracy,1032280,region,mean,0.8104249155101582,0.8821355358447125
+Fruitful Rim,overall,crop introduction,user's accuracy,1032280,region,mean,0.825056998441559,0.8821355358447125
+Fruitful Rim,overall,crop introduction,producer's accuracy,1032280,region,mean,0.8249745596698534,0.8821355358447125
+Fruitful Rim,switch,crop discontinuation,user's accuracy,125332,region,median,0.902844259291326,0.8821355358447125
+Fruitful Rim,switch,crop discontinuation,producer's accuracy,125332,region,median,0.8760872793033081,0.8821355358447125
+Fruitful Rim,switch,crop introduction,user's accuracy,105743,region,median,0.898385678430193,0.8821355358447125
+Fruitful Rim,switch,crop introduction,producer's accuracy,105743,region,median,0.8772396225197802,0.8821355358447125
+Fruitful Rim,no switch,crop discontinuation,user's accuracy,906948,region,median,0.9240691296978347,0.8821355358447125
+Fruitful Rim,no switch,crop discontinuation,producer's accuracy,906948,region,median,0.923218567221375,0.8821355358447125
+Fruitful Rim,no switch,crop introduction,user's accuracy,926537,region,median,0.924326946160543,0.8821355358447125
+Fruitful Rim,no switch,crop introduction,producer's accuracy,926537,region,median,0.92357029483797215,0.8821355358447125
+Fruitful Rim,overall,crop discontinuation,user's accuracy,1032280,region,median,0.9117027375389272,0.8821355358447125
+Fruitful Rim,overall,crop discontinuation,producer's accuracy,1032280,region,median,0.9139317207187788,0.8821355358447125
+Fruitful Rim,overall,crop introduction,user's accuracy,1032280,region,median,0.9140889156355867,0.8821355358447125
+Fruitful Rim,overall,crop introduction,producer's accuracy,1032280,region,median,0.9162931828696569,0.8821355358447125
+ID,switch,crop discontinuation,user's accuracy,35839,state,mean,0.8821127054790688,0.8831007571166585
+ID,switch,crop discontinuation,producer's accuracy,35839,state,mean,0.8642360958587993,0.8831007571166585
+ID,switch,crop introduction,user's accuracy,36456,state,mean,0.8975316673547064,0.8831007571166585
+ID,switch,crop introduction,producer's accuracy,36456,state,mean,0.8791150554211244,0.8831007571166585
+ID,no switch,crop discontinuation,user's accuracy,204761,state,mean,0.9060009188053686,0.8831007571166585
+ID,no switch,crop discontinuation,producer's accuracy,204761,state,mean,0.8972901159058158,0.8831007571166585
+ID,no switch,crop introduction,user's accuracy,204144,state,mean,0.9080959868024047,0.8831007571166585
+ID,no switch,crop introduction,producer's accuracy,204144,state,mean,0.9000055280489149,0.8831007571166585
+ID,overall,crop discontinuation,user's accuracy,240600,state,mean,0.7886060552113123,0.8831007571166585
+ID,overall,crop discontinuation,producer's accuracy,240600,state,mean,0.7838556275291239,0.8831007571166585
+ID,overall,crop introduction,user's accuracy,240600,state,mean,0.7860263203021897,0.8831007571166585
+ID,overall,crop introduction,producer's accuracy,240600,state,mean,0.7819522446283667,0.8831007571166585
+ID,switch,crop discontinuation,user's accuracy,35839,state,median,0.908391338991134,0.8831007571166585
+ID,switch,crop discontinuation,producer's accuracy,35839,state,median,0.8958335157041597,0.8831007571166585
+ID,switch,crop introduction,user's accuracy,36456,state,median,0.9236737454462054,0.8831007571166585
+ID,switch,crop introduction,producer's accuracy,36456,state,median,0.9142936754713662,0.8831007571166585
+ID,no switch,crop discontinuation,user's accuracy,204761,state,median,0.9113853622992418,0.8831007571166585
+ID,no switch,crop discontinuation,producer's accuracy,204761,state,median,0.9143216230633822,0.8831007571166585
+ID,no switch,crop introduction,user's accuracy,204144,state,median,0.9123224347906662,0.8831007571166585
+ID,no switch,crop introduction,producer's accuracy,204144,state,median,0.9150766249622233,0.8831007571166585
+ID,overall,crop discontinuation,user's accuracy,240600,state,median,0.9027836377579275,0.8831007571166585
+ID,overall,crop discontinuation,producer's accuracy,240600,state,median,0.9080076399887078,0.8831007571166585
+ID,overall,crop introduction,user's accuracy,240600,state,median,0.9036273616892292,0.8831007571166585
+ID,overall,crop introduction,producer's accuracy,240600,state,median,0.9098728892883636,0.8831007571166585
+TN,switch,crop discontinuation,user's accuracy,12379,state,mean,0.829184814587721,0.8859206577505094
+TN,switch,crop discontinuation,producer's accuracy,12379,state,mean,0.780485594599772,0.8859206577505094
+TN,switch,crop introduction,user's accuracy,8525,state,mean,0.8310986123969314,0.8859206577505094
+TN,switch,crop introduction,producer's accuracy,8525,state,mean,0.8060391336764606,0.8859206577505094
+TN,no switch,crop discontinuation,user's accuracy,113413,state,mean,0.9451507403363569,0.8859206577505094
+TN,no switch,crop discontinuation,producer's accuracy,113413,state,mean,0.9123997647683818,0.8859206577505094
+TN,no switch,crop introduction,user's accuracy,117267,state,mean,0.9466525713534208,0.8859206577505094
+TN,no switch,crop introduction,producer's accuracy,117267,state,mean,0.9135704249920724,0.8859206577505094
+TN,overall,crop discontinuation,user's accuracy,125792,state,mean,0.8689495523879569,0.8859206577505094
+TN,overall,crop discontinuation,producer's accuracy,125792,state,mean,0.8442139670736312,0.8859206577505094
+TN,overall,crop introduction,user's accuracy,125792,state,mean,0.8939439027459436,0.8859206577505094
+TN,overall,crop introduction,producer's accuracy,125792,state,mean,0.8648020495178835,0.8859206577505094
+TN,switch,crop discontinuation,user's accuracy,12379,state,median,0.8521668888682555,0.8859206577505094
+TN,switch,crop discontinuation,producer's accuracy,12379,state,median,0.8372880509446499,0.8859206577505094
+TN,switch,crop introduction,user's accuracy,8525,state,median,0.853035621515471,0.8859206577505094
+TN,switch,crop introduction,producer's accuracy,8525,state,median,0.8525329305005543,0.8859206577505094
+TN,no switch,crop discontinuation,user's accuracy,113413,state,median,0.9494679855614778,0.8859206577505094
+TN,no switch,crop discontinuation,producer's accuracy,113413,state,median,0.9103449363380964,0.8859206577505094
+TN,no switch,crop introduction,user's accuracy,117267,state,median,0.9501555881531091,0.8859206577505094
+TN,no switch,crop introduction,producer's accuracy,117267,state,median,0.9112661788520331,0.8859206577505094
+TN,overall,crop discontinuation,user's accuracy,125792,state,median,0.945361149452907,0.8859206577505094
+TN,overall,crop discontinuation,producer's accuracy,125792,state,median,0.9072308077745594,0.8859206577505094
+TN,overall,crop introduction,user's accuracy,125792,state,median,0.9482850347555201,0.8859206577505094
+TN,overall,crop introduction,producer's accuracy,125792,state,median,0.90846948485906,0.8859206577505094
+AZ,switch,crop discontinuation,user's accuracy,6820,state,mean,0.8462040475936379,0.8905318757807793
+AZ,switch,crop discontinuation,producer's accuracy,6820,state,mean,0.7919269107223648,0.8905318757807793
+AZ,switch,crop introduction,user's accuracy,5979,state,mean,0.8810422687068058,0.8905318757807793
+AZ,switch,crop introduction,producer's accuracy,5979,state,mean,0.8413491075130588,0.8905318757807793
+AZ,no switch,crop discontinuation,user's accuracy,36028,state,mean,0.9162562091915973,0.8905318757807793
+AZ,no switch,crop discontinuation,producer's accuracy,36028,state,mean,0.9272220408131469,0.8905318757807793
+AZ,no switch,crop introduction,user's accuracy,36869,state,mean,0.92045733691787,0.8905318757807793
+AZ,no switch,crop introduction,producer's accuracy,36869,state,mean,0.930913518776217,0.8905318757807793
+AZ,overall,crop discontinuation,user's accuracy,42848,state,mean,0.7948974771323339,0.8905318757807793
+AZ,overall,crop discontinuation,producer's accuracy,42848,state,mean,0.8127570517944718,0.8905318757807793
+AZ,overall,crop introduction,user's accuracy,42848,state,mean,0.8086162675090309,0.8905318757807793
+AZ,overall,crop introduction,producer's accuracy,42848,state,mean,0.8231521706950096,0.8905318757807793
+AZ,switch,crop discontinuation,user's accuracy,6820,state,median,0.9182636958044376,0.8905318757807793
+AZ,switch,crop discontinuation,producer's accuracy,6820,state,median,0.8661102148166128,0.8905318757807793
+AZ,switch,crop introduction,user's accuracy,5979,state,median,0.9220626705864496,0.8905318757807793
+AZ,switch,crop introduction,producer's accuracy,5979,state,median,0.8875028902809727,0.8905318757807793
+AZ,no switch,crop discontinuation,user's accuracy,36028,state,median,0.9399009844319167,0.8905318757807793
+AZ,no switch,crop discontinuation,producer's accuracy,36028,state,median,0.9403588538499195,0.8905318757807793
+AZ,no switch,crop introduction,user's accuracy,36869,state,median,0.9393702222612874,0.8905318757807793
+AZ,no switch,crop introduction,producer's accuracy,36869,state,median,0.9414722768160201,0.8905318757807793
+AZ,overall,crop discontinuation,user's accuracy,42848,state,median,0.9271743518950114,0.8905318757807793
+AZ,overall,crop discontinuation,producer's accuracy,42848,state,median,0.9332924667389175,0.8905318757807793
+AZ,overall,crop introduction,user's accuracy,42848,state,median,0.9284633101817193,0.8905318757807793
+AZ,overall,crop introduction,producer's accuracy,42848,state,median,0.9339986737098934,0.8905318757807793
+WI,switch,crop discontinuation,user's accuracy,28990,state,mean,0.866800354829325,0.8911400146668034
+WI,switch,crop discontinuation,producer's accuracy,28990,state,mean,0.8096206866552931,0.8911400146668034
+WI,switch,crop introduction,user's accuracy,27555,state,mean,0.8580628810529659,0.8911400146668034
+WI,switch,crop introduction,producer's accuracy,27555,state,mean,0.8142220424393454,0.8911400146668034
+WI,no switch,crop discontinuation,user's accuracy,332666,state,mean,0.9362062274762608,0.8911400146668034
+WI,no switch,crop discontinuation,producer's accuracy,332666,state,mean,0.9052385474258927,0.8911400146668034
+WI,no switch,crop introduction,user's accuracy,334101,state,mean,0.9348073402953936,0.8911400146668034
+WI,no switch,crop introduction,producer's accuracy,334101,state,mean,0.9042280409877167,0.8911400146668034
+WI,overall,crop discontinuation,user's accuracy,361656,state,mean,0.8718379857740944,0.8911400146668034
+WI,overall,crop discontinuation,producer's accuracy,361656,state,mean,0.8479361130794003,0.8911400146668034
+WI,overall,crop introduction,user's accuracy,361656,state,mean,0.8743976168309581,0.8911400146668034
+WI,overall,crop introduction,producer's accuracy,361656,state,mean,0.8494884761835009,0.8911400146668034
+WI,switch,crop discontinuation,user's accuracy,28990,state,median,0.8699140848041736,0.8911400146668034
+WI,switch,crop discontinuation,producer's accuracy,28990,state,median,0.8447067842869052,0.8911400146668034
+WI,switch,crop introduction,user's accuracy,27555,state,median,0.858898906389419,0.8911400146668034
+WI,switch,crop introduction,producer's accuracy,27555,state,median,0.8405223796348353,0.8911400146668034
+WI,no switch,crop discontinuation,user's accuracy,332666,state,median,0.9564496828663145,0.8911400146668034
+WI,no switch,crop discontinuation,producer's accuracy,332666,state,median,0.9216774295720451,0.8911400146668034
+WI,no switch,crop introduction,user's accuracy,334101,state,median,0.9563887784592486,0.8911400146668034
+WI,no switch,crop introduction,producer's accuracy,334101,state,median,0.9212357064421296,0.8911400146668034
+WI,overall,crop discontinuation,user's accuracy,361656,state,median,0.9540450960079498,0.8911400146668034
+WI,overall,crop discontinuation,producer's accuracy,361656,state,median,0.919875181531999,0.8911400146668034
+WI,overall,crop introduction,user's accuracy,361656,state,median,0.9540390576539545,0.8911400146668034
+WI,overall,crop introduction,producer's accuracy,361656,state,median,0.9167609513241608,0.8911400146668034
+KY,switch,crop discontinuation,user's accuracy,6139,state,mean,0.8400243833667197,0.8933629126460312
+KY,switch,crop discontinuation,producer's accuracy,6139,state,mean,0.8011527919153435,0.8933629126460312
+KY,switch,crop introduction,user's accuracy,4015,state,mean,0.8176154075933614,0.8933629126460312
+KY,switch,crop introduction,producer's accuracy,4015,state,mean,0.786079854291802,0.8933629126460312
+KY,no switch,crop discontinuation,user's accuracy,119221,state,mean,0.9550750616669214,0.8933629126460312
+KY,no switch,crop discontinuation,producer's accuracy,119221,state,mean,0.9195065746403372,0.8933629126460312
+KY,no switch,crop introduction,user's accuracy,121345,state,mean,0.9546549872483783,0.8933629126460312
+KY,no switch,crop introduction,producer's accuracy,121345,state,mean,0.9183913068785211,0.8933629126460312
+KY,overall,crop discontinuation,user's accuracy,125360,state,mean,0.9161382756661118,0.8933629126460312
+KY,overall,crop discontinuation,producer's accuracy,125360,state,mean,0.884215191014895,0.8933629126460312
+KY,overall,crop introduction,user's accuracy,125360,state,mean,0.9299208963478554,0.8933629126460312
+KY,overall,crop introduction,producer's accuracy,125360,state,mean,0.8958286735656715,0.8933629126460312
+KY,switch,crop discontinuation,user's accuracy,6139,state,median,0.8575277799616031,0.8933629126460312
+KY,switch,crop discontinuation,producer's accuracy,6139,state,median,0.8438597012120692,0.8933629126460312
+KY,switch,crop introduction,user's accuracy,4015,state,median,0.818782619097483,0.8933629126460312
+KY,switch,crop introduction,producer's accuracy,4015,state,median,0.8196841123540541,0.8933629126460312
+KY,no switch,crop discontinuation,user's accuracy,119221,state,median,0.9555932821013622,0.8933629126460312
+KY,no switch,crop discontinuation,producer's accuracy,119221,state,median,0.9160542758886814,0.8933629126460312
+KY,no switch,crop introduction,user's accuracy,121345,state,median,0.9552877296060345,0.8933629126460312
+KY,no switch,crop introduction,producer's accuracy,121345,state,median,0.9153866350736738,0.8933629126460312
+KY,overall,crop discontinuation,user's accuracy,125360,state,median,0.9549344467593062,0.8933629126460312
+KY,overall,crop discontinuation,producer's accuracy,125360,state,median,0.9150307352476283,0.8933629126460312
+KY,overall,crop introduction,user's accuracy,125360,state,median,0.9549344467593062,0.8933629126460312
+KY,overall,crop introduction,producer's accuracy,125360,state,median,0.9150307352476283,0.8933629126460312
+FL,switch,crop discontinuation,user's accuracy,1976,state,mean,0.7608659896413672,0.8942225188389874
+FL,switch,crop discontinuation,producer's accuracy,1976,state,mean,0.6397678840289237,0.8942225188389874
+FL,switch,crop introduction,user's accuracy,1558,state,mean,0.7816094882771385,0.8942225188389874
+FL,switch,crop introduction,producer's accuracy,1558,state,mean,0.7317295655571944,0.8942225188389874
+FL,no switch,crop discontinuation,user's accuracy,62808,state,mean,0.9621672230539606,0.8942225188389874
+FL,no switch,crop discontinuation,producer's accuracy,62808,state,mean,0.9605646030290667,0.8942225188389874
+FL,no switch,crop introduction,user's accuracy,63226,state,mean,0.9592566975539041,0.8942225188389874
+FL,no switch,crop introduction,producer's accuracy,63226,state,mean,0.9566436164009424,0.8942225188389874
+FL,overall,crop discontinuation,user's accuracy,64784,state,mean,0.9401137279272948,0.8942225188389874
+FL,overall,crop discontinuation,producer's accuracy,64784,state,mean,0.9422536467061071,0.8942225188389874
+FL,overall,crop introduction,user's accuracy,64784,state,mean,0.941439497048767,0.8942225188389874
+FL,overall,crop introduction,producer's accuracy,64784,state,mean,0.9400888279116432,0.8942225188389874
+FL,switch,crop discontinuation,user's accuracy,1976,state,median,0.7891944401753028,0.8942225188389874
+FL,switch,crop discontinuation,producer's accuracy,1976,state,median,0.695877192952425,0.8942225188389874
+FL,switch,crop introduction,user's accuracy,1558,state,median,0.8442342527459394,0.8942225188389874
+FL,switch,crop introduction,producer's accuracy,1558,state,median,0.7629229715114376,0.8942225188389874
+FL,no switch,crop discontinuation,user's accuracy,62808,state,median,0.9812373235050468,0.8942225188389874
+FL,no switch,crop discontinuation,producer's accuracy,62808,state,median,0.9846658048691795,0.8942225188389874
+FL,no switch,crop introduction,user's accuracy,63226,state,median,0.9809261053153696,0.8942225188389874
+FL,no switch,crop introduction,producer's accuracy,63226,state,median,0.979476180117545,0.8942225188389874
+FL,overall,crop discontinuation,user's accuracy,64784,state,median,0.9812373235050468,0.8942225188389874
+FL,overall,crop discontinuation,producer's accuracy,64784,state,median,0.9846658048691795,0.8942225188389874
+FL,overall,crop introduction,user's accuracy,64784,state,median,0.9809261053153696,0.8942225188389874
+FL,overall,crop introduction,producer's accuracy,64784,state,median,0.979476180117545,0.8942225188389874
+KS,switch,crop discontinuation,user's accuracy,100171,state,mean,0.8609568808939421,0.8964325007429991
+KS,switch,crop discontinuation,producer's accuracy,100171,state,mean,0.8261098706338682,0.8964325007429991
+KS,switch,crop introduction,user's accuracy,117421,state,mean,0.8738050102261123,0.8964325007429991
+KS,switch,crop introduction,producer's accuracy,117421,state,mean,0.8469378762773822,0.8964325007429991
+KS,no switch,crop discontinuation,user's accuracy,1139485,state,mean,0.9316157712762703,0.8964325007429991
+KS,no switch,crop discontinuation,producer's accuracy,1139485,state,mean,0.9176361609906154,0.8964325007429991
+KS,no switch,crop introduction,user's accuracy,1122235,state,mean,0.9299365692835058,0.8964325007429991
+KS,no switch,crop introduction,producer's accuracy,1122235,state,mean,0.9134059574588896,0.8964325007429991
+KS,overall,crop discontinuation,user's accuracy,1239656,state,mean,0.8675715564775327,0.8964325007429991
+KS,overall,crop discontinuation,producer's accuracy,1239656,state,mean,0.857537404776108,0.8964325007429991
+KS,overall,crop introduction,user's accuracy,1239656,state,mean,0.8538056587667197,0.8964325007429991
+KS,overall,crop introduction,producer's accuracy,1239656,state,mean,0.8413857088567396,0.8964325007429991
+KS,switch,crop discontinuation,user's accuracy,100171,state,median,0.8795466420445462,0.8964325007429991
+KS,switch,crop discontinuation,producer's accuracy,100171,state,median,0.871010234559559,0.8964325007429991
+KS,switch,crop introduction,user's accuracy,117421,state,median,0.8897648096303731,0.8964325007429991
+KS,switch,crop introduction,producer's accuracy,117421,state,median,0.8861635920100875,0.8964325007429991
+KS,no switch,crop discontinuation,user's accuracy,1139485,state,median,0.9413508841047886,0.8964325007429991
+KS,no switch,crop discontinuation,producer's accuracy,1139485,state,median,0.9286830625455402,0.8964325007429991
+KS,no switch,crop introduction,user's accuracy,1122235,state,median,0.9413020630073213,0.8964325007429991
+KS,no switch,crop introduction,producer's accuracy,1122235,state,median,0.9277902287452692,0.8964325007429991
+KS,overall,crop discontinuation,user's accuracy,1239656,state,median,0.9385335360894511,0.8964325007429991
+KS,overall,crop discontinuation,producer's accuracy,1239656,state,median,0.9269661553675181,0.8964325007429991
+KS,overall,crop introduction,user's accuracy,1239656,state,median,0.937492009900863,0.8964325007429991
+KS,overall,crop introduction,producer's accuracy,1239656,state,median,0.9250723739089739,0.8964325007429991
+Northern Crescent,switch,crop discontinuation,user's accuracy,93137,region,mean,0.8716350121974351,0.9025346792209655
+Northern Crescent,switch,crop discontinuation,producer's accuracy,93137,region,mean,0.8273958210715114,0.9025346792209655
+Northern Crescent,switch,crop introduction,user's accuracy,85945,region,mean,0.8626787545982413,0.9025346792209655
+Northern Crescent,switch,crop introduction,producer's accuracy,85945,region,mean,0.8247817910537513,0.9025346792209655
+Northern Crescent,no switch,crop discontinuation,user's accuracy,1106031,region,mean,0.9457021841870571,0.9025346792209655
+Northern Crescent,no switch,crop discontinuation,producer's accuracy,1106031,region,mean,0.9193857000376922,0.9025346792209655
+Northern Crescent,no switch,crop introduction,user's accuracy,1113223,region,mean,0.9443315486320566,0.9025346792209655
+Northern Crescent,no switch,crop introduction,producer's accuracy,1113223,region,mean,0.9176829567001382,0.9025346792209655
+Northern Crescent,overall,crop discontinuation,user's accuracy,1199168,region,mean,0.8822212253392023,0.9025346792209655
+Northern Crescent,overall,crop discontinuation,producer's accuracy,1199168,region,mean,0.8613846605406835,0.9025346792209655
+Northern Crescent,overall,crop introduction,user's accuracy,1199168,region,mean,0.8864926966020429,0.9025346792209655
+Northern Crescent,overall,crop introduction,producer's accuracy,1199168,region,mean,0.8644701185109008,0.9025346792209655
+Northern Crescent,switch,crop discontinuation,user's accuracy,93137,region,median,0.8905577841937986,0.9025346792209655
+Northern Crescent,switch,crop discontinuation,producer's accuracy,93137,region,median,0.8563454687501445,0.9025346792209655
+Northern Crescent,switch,crop introduction,user's accuracy,85945,region,median,0.877970475077879,0.9025346792209655
+Northern Crescent,switch,crop introduction,producer's accuracy,85945,region,median,0.8491808705837961,0.9025346792209655
+Northern Crescent,no switch,crop discontinuation,user's accuracy,1106031,region,median,0.9662388528143884,0.9025346792209655
+Northern Crescent,no switch,crop discontinuation,producer's accuracy,1106031,region,median,0.9329403703721076,0.9025346792209655
+Northern Crescent,no switch,crop introduction,user's accuracy,1113223,region,median,0.965799171813353,0.9025346792209655
+Northern Crescent,no switch,crop introduction,producer's accuracy,1113223,region,median,0.9321080558773008,0.9025346792209655
+Northern Crescent,overall,crop discontinuation,user's accuracy,1199168,region,median,0.9626552371764995,0.9025346792209655
+Northern Crescent,overall,crop discontinuation,producer's accuracy,1199168,region,median,0.9286974495711139,0.9025346792209655
+Northern Crescent,overall,crop introduction,user's accuracy,1199168,region,median,0.9624095764892828,0.9025346792209655
+Northern Crescent,overall,crop introduction,producer's accuracy,1199168,region,median,0.9277665191127966,0.9025346792209655
+MS,switch,crop discontinuation,user's accuracy,27319,state,mean,0.8604309628650747,0.9040242374818348
+MS,switch,crop discontinuation,producer's accuracy,27319,state,mean,0.7575330557498724,0.9040242374818348
+MS,switch,crop introduction,user's accuracy,12721,state,mean,0.8645347916998102,0.9040242374818348
+MS,switch,crop introduction,producer's accuracy,12721,state,mean,0.8077080388634729,0.9040242374818348
+MS,no switch,crop discontinuation,user's accuracy,184801,state,mean,0.955759460381002,0.9040242374818348
+MS,no switch,crop discontinuation,producer's accuracy,184801,state,mean,0.9401226717156114,0.9040242374818348
+MS,no switch,crop introduction,user's accuracy,199399,state,mean,0.9581734953079251,0.9040242374818348
+MS,no switch,crop introduction,producer's accuracy,199399,state,mean,0.9460900600060099,0.9040242374818348
+MS,overall,crop discontinuation,user's accuracy,212120,state,mean,0.8506420448960905,0.9040242374818348
+MS,overall,crop discontinuation,producer's accuracy,212120,state,mean,0.8502713761346695,0.9040242374818348
+MS,overall,crop introduction,user's accuracy,212120,state,mean,0.9088350448128022,0.9040242374818348
+MS,overall,crop introduction,producer's accuracy,212120,state,mean,0.9008842066413166,0.9040242374818348
+MS,switch,crop discontinuation,user's accuracy,27319,state,median,0.8865452419401487,0.9040242374818348
+MS,switch,crop discontinuation,producer's accuracy,27319,state,median,0.8226040201165512,0.9040242374818348
+MS,switch,crop introduction,user's accuracy,12721,state,median,0.8891101216416101,0.9040242374818348
+MS,switch,crop introduction,producer's accuracy,12721,state,median,0.8606070127945213,0.9040242374818348
+MS,no switch,crop discontinuation,user's accuracy,184801,state,median,0.9603164903216094,0.9040242374818348
+MS,no switch,crop discontinuation,producer's accuracy,184801,state,median,0.9504586296791632,0.9040242374818348
+MS,no switch,crop introduction,user's accuracy,199399,state,median,0.9600295970767251,0.9040242374818348
+MS,no switch,crop introduction,producer's accuracy,199399,state,median,0.9502423061703686,0.9040242374818348
+MS,overall,crop discontinuation,user's accuracy,212120,state,median,0.9580790711966124,0.9040242374818348
+MS,overall,crop discontinuation,producer's accuracy,212120,state,median,0.948913147300358,0.9040242374818348
+MS,overall,crop introduction,user's accuracy,212120,state,median,0.9589478754476082,0.9040242374818348
+MS,overall,crop introduction,producer's accuracy,212120,state,median,0.949742976805101,0.9040242374818348
+Mississippi Portal,switch,crop discontinuation,user's accuracy,97318,region,mean,0.8615830152706926,0.9072634836757058
+Mississippi Portal,switch,crop discontinuation,producer's accuracy,97318,region,mean,0.7655476158419212,0.9072634836757058
+Mississippi Portal,switch,crop introduction,user's accuracy,56624,region,mean,0.8696711037340884,0.9072634836757058
+Mississippi Portal,switch,crop introduction,producer's accuracy,56624,region,mean,0.8245513415247074,0.9072634836757058
+Mississippi Portal,no switch,crop discontinuation,user's accuracy,795010,region,mean,0.9543816216899739,0.9072634836757058
+Mississippi Portal,no switch,crop discontinuation,producer's accuracy,795010,region,mean,0.9408654390991653,0.9072634836757058
+Mississippi Portal,no switch,crop introduction,user's accuracy,835704,region,mean,0.9560707945184952,0.9072634836757058
+Mississippi Portal,no switch,crop introduction,producer's accuracy,835704,region,mean,0.9440409178201872,0.9072634836757058
+Mississippi Portal,overall,crop discontinuation,user's accuracy,892328,region,mean,0.8653918706794315,0.9072634836757058
+Mississippi Portal,overall,crop discontinuation,producer's accuracy,892328,region,mean,0.8638234705844956,0.9072634836757058
+Mississippi Portal,overall,crop introduction,user's accuracy,892328,region,mean,0.9036721146085802,0.9072634836757058
+Mississippi Portal,overall,crop introduction,producer's accuracy,892328,region,mean,0.8952687532202374,0.9072634836757058
+Mississippi Portal,switch,crop discontinuation,user's accuracy,97318,region,median,0.8864123543341595,0.9072634836757058
+Mississippi Portal,switch,crop discontinuation,producer's accuracy,97318,region,median,0.8215848967093027,0.9072634836757058
+Mississippi Portal,switch,crop introduction,user's accuracy,56624,region,median,0.8987901819133074,0.9072634836757058
+Mississippi Portal,switch,crop introduction,producer's accuracy,56624,region,median,0.8741020416027692,0.9072634836757058
+Mississippi Portal,no switch,crop discontinuation,user's accuracy,795010,region,median,0.9602215261693186,0.9072634836757058
+Mississippi Portal,no switch,crop discontinuation,producer's accuracy,795010,region,median,0.9550614330887481,0.9072634836757058
+Mississippi Portal,no switch,crop introduction,user's accuracy,835704,region,median,0.959543365352432,0.9072634836757058
+Mississippi Portal,no switch,crop introduction,producer's accuracy,835704,region,median,0.9546413317989527,0.9072634836757058
+Mississippi Portal,overall,crop discontinuation,user's accuracy,892328,region,median,0.9558081634042472,0.9072634836757058
+Mississippi Portal,overall,crop discontinuation,producer's accuracy,892328,region,median,0.9525867364804603,0.9072634836757058
+Mississippi Portal,overall,crop introduction,user's accuracy,892328,region,median,0.9575516994374496,0.9072634836757058
+Mississippi Portal,overall,crop introduction,producer's accuracy,892328,region,median,0.9531518193338141,0.9072634836757058
+MO,switch,crop discontinuation,user's accuracy,24845,state,mean,0.8632617000550852,0.9085146030815827
+MO,switch,crop discontinuation,producer's accuracy,24845,state,mean,0.8128009818343167,0.9085146030815827
+MO,switch,crop introduction,user's accuracy,17309,state,mean,0.8611143891950964,0.9085146030815827
+MO,switch,crop introduction,producer's accuracy,17309,state,mean,0.8198808813010386,0.9085146030815827
+MO,no switch,crop discontinuation,user's accuracy,456355,state,mean,0.9566946206435128,0.9085146030815827
+MO,no switch,crop discontinuation,producer's accuracy,456355,state,mean,0.9230509585982015,0.9085146030815827
+MO,no switch,crop introduction,user's accuracy,463891,state,mean,0.9517389517813922,0.9085146030815827
+MO,no switch,crop introduction,producer's accuracy,463891,state,mean,0.9171782090803084,0.9085146030815827
+MO,overall,crop discontinuation,user's accuracy,481200,state,mean,0.9143591784411927,0.9085146030815827
+MO,overall,crop discontinuation,producer's accuracy,481200,state,mean,0.8850579381076615,0.9085146030815827
+MO,overall,crop introduction,user's accuracy,481200,state,mean,0.9225002184502243,0.9085146030815827
+MO,overall,crop introduction,producer's accuracy,481200,state,mean,0.8906658321156049,0.9085146030815827
+MO,switch,crop discontinuation,user's accuracy,24845,state,median,0.8878873153426367,0.9085146030815827
+MO,switch,crop discontinuation,producer's accuracy,24845,state,median,0.8700508248951987,0.9085146030815827
+MO,switch,crop introduction,user's accuracy,17309,state,median,0.8825422143575858,0.9085146030815827
+MO,switch,crop introduction,producer's accuracy,17309,state,median,0.8670462848743967,0.9085146030815827
+MO,no switch,crop discontinuation,user's accuracy,456355,state,median,0.9645471110659274,0.9085146030815827
+MO,no switch,crop discontinuation,producer's accuracy,456355,state,median,0.9304940070971415,0.9085146030815827
+MO,no switch,crop introduction,user's accuracy,463891,state,median,0.9644202790580707,0.9085146030815827
+MO,no switch,crop introduction,producer's accuracy,463891,state,median,0.9301160542870388,0.9085146030815827
+MO,overall,crop discontinuation,user's accuracy,481200,state,median,0.9644095663950609,0.9085146030815827
+MO,overall,crop discontinuation,producer's accuracy,481200,state,median,0.9300862581168713,0.9085146030815827
+MO,overall,crop introduction,user's accuracy,481200,state,median,0.9643726316710451,0.9085146030815827
+MO,overall,crop introduction,producer's accuracy,481200,state,median,0.9300740671933752,0.9085146030815827
+LA,switch,crop discontinuation,user's accuracy,18820,state,mean,0.891890923212965,0.909819346914844
+LA,switch,crop discontinuation,producer's accuracy,18820,state,mean,0.7871413713774068,0.909819346914844
+LA,switch,crop introduction,user's accuracy,11130,state,mean,0.8739772941477683,0.909819346914844
+LA,switch,crop introduction,producer's accuracy,11130,state,mean,0.8262130974672968,0.909819346914844
+LA,no switch,crop discontinuation,user's accuracy,152948,state,mean,0.951754130944529,0.909819346914844
+LA,no switch,crop discontinuation,producer's accuracy,152948,state,mean,0.9378002169674151,0.909819346914844
+LA,no switch,crop introduction,user's accuracy,160638,state,mean,0.9550154710974017,0.909819346914844
+LA,no switch,crop introduction,producer's accuracy,160638,state,mean,0.9465317937799653,0.909819346914844
+LA,overall,crop discontinuation,user's accuracy,171768,state,mean,0.8593189863352648,0.909819346914844
+LA,overall,crop discontinuation,producer's accuracy,171768,state,mean,0.8583709828105899,0.909819346914844
+LA,overall,crop introduction,user's accuracy,171768,state,mean,0.9012994734891233,0.909819346914844
+LA,overall,crop introduction,producer's accuracy,171768,state,mean,0.8964604729310176,0.909819346914844
+LA,switch,crop discontinuation,user's accuracy,18820,state,median,0.9065616599170188,0.909819346914844
+LA,switch,crop discontinuation,producer's accuracy,18820,state,median,0.8217493796051993,0.909819346914844
+LA,switch,crop introduction,user's accuracy,11130,state,median,0.9010860541269288,0.909819346914844
+LA,switch,crop introduction,producer's accuracy,11130,state,median,0.8616911936338649,0.909819346914844
+LA,no switch,crop discontinuation,user's accuracy,152948,state,median,0.9630344023890702,0.909819346914844
+LA,no switch,crop discontinuation,producer's accuracy,152948,state,median,0.9578020195116835,0.909819346914844
+LA,no switch,crop introduction,user's accuracy,160638,state,median,0.9589776892780291,0.909819346914844
+LA,no switch,crop introduction,producer's accuracy,160638,state,median,0.9585677936864818,0.909819346914844
+LA,overall,crop discontinuation,user's accuracy,171768,state,median,0.9546760280082347,0.909819346914844
+LA,overall,crop discontinuation,producer's accuracy,171768,state,median,0.954214832992603,0.909819346914844
+LA,overall,crop introduction,user's accuracy,171768,state,median,0.9557197132288289,0.909819346914844
+LA,overall,crop introduction,producer's accuracy,171768,state,median,0.9558093450175685,0.909819346914844
+AR,switch,crop discontinuation,user's accuracy,41837,state,mean,0.8566145597681221,0.9107229667068483
+AR,switch,crop discontinuation,producer's accuracy,41837,state,mean,0.756498745330691,0.9107229667068483
+AR,switch,crop introduction,user's accuracy,26486,state,mean,0.8799950099425058,0.9107229667068483
+AR,switch,crop introduction,producer's accuracy,26486,state,mean,0.8345502492124791,0.9107229667068483
+AR,no switch,crop discontinuation,user's accuracy,370203,state,mean,0.9570319988670044,0.9107229667068483
+AR,no switch,crop discontinuation,producer's accuracy,370203,state,mean,0.9501154521148217,0.9107229667068483
+AR,no switch,crop introduction,user's accuracy,385554,state,mean,0.9576693069565472,0.9107229667068483
+AR,no switch,crop introduction,producer's accuracy,385554,state,mean,0.9500463445899547,0.9107229667068483
+AR,overall,crop discontinuation,user's accuracy,412040,state,mean,0.8744173714676848,0.9107229667068483
+AR,overall,crop discontinuation,producer's accuracy,412040,state,mean,0.8783684902214908,0.9107229667068483
+AR,overall,crop introduction,user's accuracy,412040,state,mean,0.9038241047980468,0.9107229667068483
+AR,overall,crop introduction,producer's accuracy,412040,state,mean,0.8996123445330383,0.9107229667068483
+AR,switch,crop discontinuation,user's accuracy,41837,state,median,0.8787531577281293,0.9107229667068483
+AR,switch,crop discontinuation,producer's accuracy,41837,state,median,0.8148806694314435,0.9107229667068483
+AR,switch,crop introduction,user's accuracy,26486,state,median,0.9096161151123044,0.9107229667068483
+AR,switch,crop introduction,producer's accuracy,26486,state,median,0.88703997977348,0.9107229667068483
+AR,no switch,crop discontinuation,user's accuracy,370203,state,median,0.9609124730031979,0.9107229667068483
+AR,no switch,crop discontinuation,producer's accuracy,370203,state,median,0.9584204025895385,0.9107229667068483
+AR,no switch,crop introduction,user's accuracy,385554,state,median,0.9604296273922686,0.9107229667068483
+AR,no switch,crop introduction,producer's accuracy,385554,state,median,0.9573222090403802,0.9107229667068483
+AR,overall,crop discontinuation,user's accuracy,412040,state,median,0.9592194694657266,0.9107229667068483
+AR,overall,crop discontinuation,producer's accuracy,412040,state,median,0.9566377305341267,0.9107229667068483
+AR,overall,crop introduction,user's accuracy,412040,state,median,0.9587839193263417,0.9107229667068483
+AR,overall,crop introduction,producer's accuracy,412040,state,median,0.9565914697650338,0.9107229667068483
+WA,switch,crop discontinuation,user's accuracy,24446,state,mean,0.8629439805819625,0.9108051983904348
+WA,switch,crop discontinuation,producer's accuracy,24446,state,mean,0.8248951242702474,0.9108051983904348
+WA,switch,crop introduction,user's accuracy,26395,state,mean,0.8828594834760262,0.9108051983904348
+WA,switch,crop introduction,producer's accuracy,26395,state,mean,0.858125306171533,0.9108051983904348
+WA,no switch,crop discontinuation,user's accuracy,295874,state,mean,0.9271179601330987,0.9108051983904348
+WA,no switch,crop discontinuation,producer's accuracy,295874,state,mean,0.9152823902231209,0.9108051983904348
+WA,no switch,crop introduction,user's accuracy,293925,state,mean,0.9310111906307911,0.9108051983904348
+WA,no switch,crop introduction,producer's accuracy,293925,state,mean,0.9192260760576381,0.9108051983904348
+WA,overall,crop discontinuation,user's accuracy,320320,state,mean,0.8668224612484821,0.9108051983904348
+WA,overall,crop discontinuation,producer's accuracy,320320,state,mean,0.8587939426728459,0.9108051983904348
+WA,overall,crop introduction,user's accuracy,320320,state,mean,0.8639466412955884,0.9108051983904348
+WA,overall,crop introduction,producer's accuracy,320320,state,mean,0.8551707884266998,0.9108051983904348
+WA,switch,crop discontinuation,user's accuracy,24446,state,median,0.9050762557778228,0.9108051983904348
+WA,switch,crop discontinuation,producer's accuracy,24446,state,median,0.8720157787436138,0.9108051983904348
+WA,switch,crop introduction,user's accuracy,26395,state,median,0.914379811847238,0.9108051983904348
+WA,switch,crop introduction,producer's accuracy,26395,state,median,0.8978621800885934,0.9108051983904348
+WA,no switch,crop discontinuation,user's accuracy,295874,state,median,0.9653617720078772,0.9108051983904348
+WA,no switch,crop discontinuation,producer's accuracy,295874,state,median,0.9625726315294496,0.9108051983904348
+WA,no switch,crop introduction,user's accuracy,293925,state,median,0.9653617720078772,0.9108051983904348
+WA,no switch,crop introduction,producer's accuracy,293925,state,median,0.9630348676027126,0.9108051983904348
+WA,overall,crop discontinuation,user's accuracy,320320,state,median,0.9626104135375682,0.9108051983904348
+WA,overall,crop discontinuation,producer's accuracy,320320,state,median,0.9611217597510407,0.9108051983904348
+WA,overall,crop introduction,user's accuracy,320320,state,median,0.9626104135375682,0.9108051983904348
+WA,overall,crop introduction,producer's accuracy,320320,state,median,0.9611217597510407,0.9108051983904348
+MI,switch,crop discontinuation,user's accuracy,31026,state,mean,0.8753679022566815,0.9143720115861066
+MI,switch,crop discontinuation,producer's accuracy,31026,state,mean,0.8685934353551836,0.9143720115861066
+MI,switch,crop introduction,user's accuracy,28780,state,mean,0.8644027405547818,0.9143720115861066
+MI,switch,crop introduction,producer's accuracy,28780,state,mean,0.8598900195059226,0.9143720115861066
+MI,no switch,crop discontinuation,user's accuracy,339334,state,mean,0.9531281792607362,0.9143720115861066
+MI,no switch,crop discontinuation,producer's accuracy,339334,state,mean,0.9256880256452626,0.9143720115861066
+MI,no switch,crop introduction,user's accuracy,341580,state,mean,0.9516471309275871,0.9143720115861066
+MI,no switch,crop introduction,producer's accuracy,341580,state,mean,0.9235480604689551,0.9143720115861066
+MI,overall,crop discontinuation,user's accuracy,370360,state,mean,0.8837229534664822,0.9143720115861066
+MI,overall,crop discontinuation,producer's accuracy,370360,state,mean,0.8591490457095243,0.9143720115861066
+MI,overall,crop introduction,user's accuracy,370360,state,mean,0.8882333840292639,0.9143720115861066
+MI,overall,crop introduction,producer's accuracy,370360,state,mean,0.862668516399194,0.9143720115861066
+MI,switch,crop discontinuation,user's accuracy,31026,state,median,0.911049591647802,0.9143720115861066
+MI,switch,crop discontinuation,producer's accuracy,31026,state,median,0.9048677650349097,0.9143720115861066
+MI,switch,crop introduction,user's accuracy,28780,state,median,0.8943045910900667,0.9143720115861066
+MI,switch,crop introduction,producer's accuracy,28780,state,median,0.8954869407775494,0.9143720115861066
+MI,no switch,crop discontinuation,user's accuracy,339334,state,median,0.9742771778250855,0.9143720115861066
+MI,no switch,crop discontinuation,producer's accuracy,339334,state,median,0.9347932769122412,0.9143720115861066
+MI,no switch,crop introduction,user's accuracy,341580,state,median,0.9741682486674698,0.9143720115861066
+MI,no switch,crop introduction,producer's accuracy,341580,state,median,0.9329586103959975,0.9143720115861066
+MI,overall,crop discontinuation,user's accuracy,370360,state,median,0.9738474408025315,0.9143720115861066
+MI,overall,crop discontinuation,producer's accuracy,370360,state,median,0.9304636724379391,0.9143720115861066
+MI,overall,crop introduction,user's accuracy,370360,state,median,0.9738474408025315,0.9143720115861066
+MI,overall,crop introduction,producer's accuracy,370360,state,median,0.9288241280928602,0.9143720115861066
+OR,switch,crop discontinuation,user's accuracy,7918,state,mean,0.8836048925870229,0.9196364754101164
+OR,switch,crop discontinuation,producer's accuracy,7918,state,mean,0.829746064483334,0.9196364754101164
+OR,switch,crop introduction,user's accuracy,6401,state,mean,0.8965974226143397,0.9196364754101164
+OR,switch,crop introduction,producer's accuracy,6401,state,mean,0.8478389141610742,0.9196364754101164
+OR,no switch,crop discontinuation,user's accuracy,108330,state,mean,0.9454175449702319,0.9196364754101164
+OR,no switch,crop discontinuation,producer's accuracy,108330,state,mean,0.9404164621944922,0.9196364754101164
+OR,no switch,crop introduction,user's accuracy,109847,state,mean,0.9474334494423962,0.9196364754101164
+OR,no switch,crop introduction,producer's accuracy,109847,state,mean,0.9428233158489872,0.9196364754101164
+OR,overall,crop discontinuation,user's accuracy,116248,state,mean,0.8889503398520503,0.9196364754101164
+OR,overall,crop discontinuation,producer's accuracy,116248,state,mean,0.8879583821738896,0.9196364754101164
+OR,overall,crop introduction,user's accuracy,116248,state,mean,0.9009583134225496,0.9196364754101164
+OR,overall,crop introduction,producer's accuracy,116248,state,mean,0.8992868340661228,0.9196364754101164
+OR,switch,crop discontinuation,user's accuracy,7918,state,median,0.9017240758423378,0.9196364754101164
+OR,switch,crop discontinuation,producer's accuracy,7918,state,median,0.8451741424439179,0.9196364754101164
+OR,switch,crop introduction,user's accuracy,6401,state,median,0.9121838333289148,0.9196364754101164
+OR,switch,crop introduction,producer's accuracy,6401,state,median,0.86797344944951,0.9196364754101164
+OR,no switch,crop discontinuation,user's accuracy,108330,state,median,0.9719377387273759,0.9196364754101164
+OR,no switch,crop discontinuation,producer's accuracy,108330,state,median,0.9620225606666911,0.9196364754101164
+OR,no switch,crop introduction,user's accuracy,109847,state,median,0.9719377387273759,0.9196364754101164
+OR,no switch,crop introduction,producer's accuracy,109847,state,median,0.9620749355400152,0.9196364754101164
+OR,overall,crop discontinuation,user's accuracy,116248,state,median,0.9718506158808412,0.9196364754101164
+OR,overall,crop discontinuation,producer's accuracy,116248,state,median,0.9607317561384485,0.9196364754101164
+OR,overall,crop introduction,user's accuracy,116248,state,median,0.9718506158808412,0.9196364754101164
+OR,overall,crop introduction,producer's accuracy,116248,state,median,0.9607820114000325,0.9196364754101164
+SD,switch,crop discontinuation,user's accuracy,62071,state,mean,0.9093265233120846,0.9221725825121913
+SD,switch,crop discontinuation,producer's accuracy,62071,state,mean,0.8801247958540628,0.9221725825121913
+SD,switch,crop introduction,user's accuracy,53961,state,mean,0.8975258421491391,0.9221725825121913
+SD,switch,crop introduction,producer's accuracy,53961,state,mean,0.8646769561223341,0.9221725825121913
+SD,no switch,crop discontinuation,user's accuracy,695233,state,mean,0.9432359402433513,0.9221725825121913
+SD,no switch,crop discontinuation,producer's accuracy,695233,state,mean,0.9371228588095787,0.9221725825121913
+SD,no switch,crop introduction,user's accuracy,703343,state,mean,0.9424482735312423,0.9221725825121913
+SD,no switch,crop introduction,producer's accuracy,703343,state,mean,0.9359369911725225,0.9221725825121913
+SD,overall,crop discontinuation,user's accuracy,757304,state,mean,0.8733572591914266,0.9221725825121913
+SD,overall,crop discontinuation,producer's accuracy,757304,state,mean,0.8701386897405827,0.9221725825121913
+SD,overall,crop introduction,user's accuracy,757304,state,mean,0.8825966904731479,0.9221725825121913
+SD,overall,crop introduction,producer's accuracy,757304,state,mean,0.8788899807117674,0.9221725825121913
+SD,switch,crop discontinuation,user's accuracy,62071,state,median,0.9196775067370382,0.9221725825121913
+SD,switch,crop discontinuation,producer's accuracy,62071,state,median,0.9006769577470589,0.9221725825121913
+SD,switch,crop introduction,user's accuracy,53961,state,median,0.905640854796092,0.9221725825121913
+SD,switch,crop introduction,producer's accuracy,53961,state,median,0.8814983085024087,0.9221725825121913
+SD,no switch,crop discontinuation,user's accuracy,695233,state,median,0.9664168593999438,0.9221725825121913
+SD,no switch,crop discontinuation,producer's accuracy,695233,state,median,0.961956482532681,0.9221725825121913
+SD,no switch,crop introduction,user's accuracy,703343,state,median,0.9662324531812829,0.9221725825121913
+SD,no switch,crop introduction,producer's accuracy,703343,state,median,0.961956482532681,0.9221725825121913
+SD,overall,crop discontinuation,user's accuracy,757304,state,median,0.966163189434939,0.9221725825121913
+SD,overall,crop discontinuation,producer's accuracy,757304,state,median,0.9605959112134179,0.9221725825121913
+SD,overall,crop introduction,user's accuracy,757304,state,median,0.9661129007497551,0.9221725825121913
+SD,overall,crop introduction,producer's accuracy,757304,state,median,0.9598332721540515,0.9221725825121913
+IN,switch,crop discontinuation,user's accuracy,17202,state,mean,0.8789597020788003,0.9278735032612366
+IN,switch,crop discontinuation,producer's accuracy,17202,state,mean,0.8216028605668186,0.9278735032612366
+IN,switch,crop introduction,user's accuracy,15210,state,mean,0.8744577530247852,0.9278735032612366
+IN,switch,crop introduction,producer's accuracy,15210,state,mean,0.8101993766250438,0.9278735032612366
+IN,no switch,crop discontinuation,user's accuracy,695006,state,mean,0.9811298928264417,0.9278735032612366
+IN,no switch,crop discontinuation,producer's accuracy,695006,state,mean,0.9498680304377753,0.9278735032612366
+IN,no switch,crop introduction,user's accuracy,696998,state,mean,0.9805645733321746,0.9278735032612366
+IN,no switch,crop introduction,producer's accuracy,696998,state,mean,0.9487939314781494,0.9278735032612366
+IN,overall,crop discontinuation,user's accuracy,712208,state,mean,0.9603561003226293,0.9278735032612366
+IN,overall,crop discontinuation,producer's accuracy,712208,state,mean,0.9312346504882908,0.9278735032612366
+IN,overall,crop introduction,user's accuracy,712208,state,mean,0.9623046133431122,0.9278735032612366
+IN,overall,crop introduction,producer's accuracy,712208,state,mean,0.9325847787920677,0.9278735032612366
+IN,switch,crop discontinuation,user's accuracy,17202,state,median,0.9076514337457036,0.9278735032612366
+IN,switch,crop discontinuation,producer's accuracy,17202,state,median,0.8585429080514493,0.9278735032612366
+IN,switch,crop introduction,user's accuracy,15210,state,median,0.888508524624982,0.9278735032612366
+IN,switch,crop introduction,producer's accuracy,15210,state,median,0.8468216771201662,0.9278735032612366
+IN,no switch,crop discontinuation,user's accuracy,695006,state,median,0.9857453851505076,0.9278735032612366
+IN,no switch,crop discontinuation,producer's accuracy,695006,state,median,0.9487355831660884,0.9278735032612366
+IN,no switch,crop introduction,user's accuracy,696998,state,median,0.9853123739912243,0.9278735032612366
+IN,no switch,crop introduction,producer's accuracy,696998,state,median,0.9483397312388845,0.9278735032612366
+IN,overall,crop discontinuation,user's accuracy,712208,state,median,0.9853512714639575,0.9278735032612366
+IN,overall,crop discontinuation,producer's accuracy,712208,state,median,0.9483397312388845,0.9278735032612366
+IN,overall,crop introduction,user's accuracy,712208,state,median,0.9852541325343424,0.9278735032612366
+IN,overall,crop introduction,producer's accuracy,712208,state,median,0.9483050626274009,0.9278735032612366
+OH,switch,crop discontinuation,user's accuracy,26475,state,mean,0.899578423978405,0.9329862558792399
+OH,switch,crop discontinuation,producer's accuracy,26475,state,mean,0.8633589808644552,0.9329862558792399
+OH,switch,crop introduction,user's accuracy,16711,state,mean,0.8850580398895144,0.9329862558792399
+OH,switch,crop introduction,producer's accuracy,16711,state,mean,0.8432271690070029,0.9329862558792399
+OH,no switch,crop discontinuation,user's accuracy,505821,state,mean,0.9745848888071714,0.9329862558792399
+OH,no switch,crop discontinuation,producer's accuracy,505821,state,mean,0.9452814510447427,0.9329862558792399
+OH,no switch,crop introduction,user's accuracy,515585,state,mean,0.9747591292433821,0.9329862558792399
+OH,no switch,crop introduction,producer's accuracy,515585,state,mean,0.9451038311769614,0.9329862558792399
+OH,overall,crop discontinuation,user's accuracy,532296,state,mean,0.9311063097722012,0.9329862558792399
+OH,overall,crop discontinuation,producer's accuracy,532296,state,mean,0.9050618073976054,0.9329862558792399
+OH,overall,crop introduction,user's accuracy,532296,state,mean,0.9477658685136767,0.9329862558792399
+OH,overall,crop introduction,producer's accuracy,532296,state,mean,0.9203548205812132,0.9329862558792399
+OH,switch,crop discontinuation,user's accuracy,26475,state,median,0.9279071028196456,0.9329862558792399
+OH,switch,crop discontinuation,producer's accuracy,26475,state,median,0.9123983884920912,0.9329862558792399
+OH,switch,crop introduction,user's accuracy,16711,state,median,0.9153230865998094,0.9329862558792399
+OH,switch,crop introduction,producer's accuracy,16711,state,median,0.8686384239939138,0.9329862558792399
+OH,no switch,crop discontinuation,user's accuracy,505821,state,median,0.9841156902349885,0.9329862558792399
+OH,no switch,crop discontinuation,producer's accuracy,505821,state,median,0.9495075239220198,0.9329862558792399
+OH,no switch,crop introduction,user's accuracy,515585,state,median,0.9840142782204809,0.9329862558792399
+OH,no switch,crop introduction,producer's accuracy,515585,state,median,0.9493558648031154,0.9329862558792399
+OH,overall,crop discontinuation,user's accuracy,532296,state,median,0.9832546459757058,0.9329862558792399
+OH,overall,crop discontinuation,producer's accuracy,532296,state,median,0.9492387726033604,0.9329862558792399
+OH,overall,crop introduction,user's accuracy,532296,state,median,0.9834368705569343,0.9329862558792399
+OH,overall,crop introduction,producer's accuracy,532296,state,median,0.9492387726033604,0.9329862558792399
+NE,switch,crop discontinuation,user's accuracy,34898,state,mean,0.9045111633322002,0.9380599207740812
+NE,switch,crop discontinuation,producer's accuracy,34898,state,mean,0.8529720343355526,0.9380599207740812
+NE,switch,crop introduction,user's accuracy,40843,state,mean,0.8989945681814031,0.9380599207740812
+NE,switch,crop introduction,producer's accuracy,40843,state,mean,0.8444114466811851,0.9380599207740812
+NE,no switch,crop discontinuation,user's accuracy,1012270,state,mean,0.9700012696514168,0.9380599207740812
+NE,no switch,crop discontinuation,producer's accuracy,1012270,state,mean,0.9554391098158312,0.9380599207740812
+NE,no switch,crop introduction,user's accuracy,1006325,state,mean,0.9701295100771024,0.9380599207740812
+NE,no switch,crop introduction,producer's accuracy,1006325,state,mean,0.9550710275075277,0.9380599207740812
+NE,overall,crop discontinuation,user's accuracy,1047168,state,mean,0.9408572021414601,0.9380599207740812
+NE,overall,crop discontinuation,producer's accuracy,1047168,state,mean,0.9284979388589318,0.9380599207740812
+NE,overall,crop introduction,user's accuracy,1047168,state,mean,0.9362308092685404,0.9380599207740812
+NE,overall,crop introduction,producer's accuracy,1047168,state,mean,0.9238885785659217,0.9380599207740812
+NE,switch,crop discontinuation,user's accuracy,34898,state,median,0.9141646690465156,0.9380599207740812
+NE,switch,crop discontinuation,producer's accuracy,34898,state,median,0.909371785343487,0.9380599207740812
+NE,switch,crop introduction,user's accuracy,40843,state,median,0.905767353933266,0.9380599207740812
+NE,switch,crop introduction,producer's accuracy,40843,state,median,0.8894117318207114,0.9380599207740812
+NE,no switch,crop discontinuation,user's accuracy,1012270,state,median,0.9837731585860168,0.9380599207740812
+NE,no switch,crop discontinuation,producer's accuracy,1012270,state,median,0.9700403563444182,0.9380599207740812
+NE,no switch,crop introduction,user's accuracy,1006325,state,median,0.9837731585860168,0.9380599207740812
+NE,no switch,crop introduction,producer's accuracy,1006325,state,median,0.9699717007302893,0.9380599207740812
+NE,overall,crop discontinuation,user's accuracy,1047168,state,median,0.9837566595180849,0.9380599207740812
+NE,overall,crop discontinuation,producer's accuracy,1047168,state,median,0.9695268958748121,0.9380599207740812
+NE,overall,crop introduction,user's accuracy,1047168,state,median,0.9837566595180849,0.9380599207740812
+NE,overall,crop introduction,producer's accuracy,1047168,state,median,0.9691193108591719,0.9380599207740812
+Heartland,switch,crop discontinuation,user's accuracy,142185,region,mean,0.8964471960093012,0.9388582642142017
+Heartland,switch,crop discontinuation,producer's accuracy,142185,region,mean,0.8501400513424874,0.9388582642142017
+Heartland,switch,crop introduction,user's accuracy,123259,region,mean,0.8933153561015619,0.9388582642142017
+Heartland,switch,crop introduction,producer's accuracy,123259,region,mean,0.8518431824536578,0.9388582642142017
+Heartland,no switch,crop discontinuation,user's accuracy,5866527,region,mean,0.9799261659477013,0.9388582642142017
+Heartland,no switch,crop discontinuation,producer's accuracy,5866527,region,mean,0.9543779920681079,0.9388582642142017
+Heartland,no switch,crop introduction,user's accuracy,5885453,region,mean,0.9788155150063504,0.9388582642142017
+Heartland,no switch,crop introduction,producer's accuracy,5885453,region,mean,0.9529390521525329,0.9388582642142017
+Heartland,overall,crop discontinuation,user's accuracy,6008712,region,mean,0.9591884194106999,0.9388582642142017
+Heartland,overall,crop discontinuation,producer's accuracy,6008712,region,mean,0.9353405680740294,0.9388582642142017
+Heartland,overall,crop introduction,user's accuracy,6008712,region,mean,0.96092516195865,0.9388582642142017
+Heartland,overall,crop introduction,producer's accuracy,6008712,region,mean,0.936430247361223,0.9388582642142017
+Heartland,switch,crop discontinuation,user's accuracy,142185,region,median,0.9144927147507446,0.9388582642142017
+Heartland,switch,crop discontinuation,producer's accuracy,142185,region,median,0.8982541486696486,0.9388582642142017
+Heartland,switch,crop introduction,user's accuracy,123259,region,median,0.9108356374476648,0.9388582642142017
+Heartland,switch,crop introduction,producer's accuracy,123259,region,median,0.8905848665050032,0.9388582642142017
+Heartland,no switch,crop discontinuation,user's accuracy,5866527,region,median,0.9861842373290386,0.9388582642142017
+Heartland,no switch,crop discontinuation,producer's accuracy,5866527,region,median,0.9570788970928997,0.9388582642142017
+Heartland,no switch,crop introduction,user's accuracy,5885453,region,median,0.9858399066169946,0.9388582642142017
+Heartland,no switch,crop introduction,producer's accuracy,5885453,region,median,0.9566893699440316,0.9388582642142017
+Heartland,overall,crop discontinuation,user's accuracy,6008712,region,median,0.9857984496730166,0.9388582642142017
+Heartland,overall,crop discontinuation,producer's accuracy,6008712,region,median,0.9566893699440316,0.9388582642142017
+Heartland,overall,crop introduction,user's accuracy,6008712,region,median,0.9855689817047686,0.9388582642142017
+Heartland,overall,crop introduction,producer's accuracy,6008712,region,median,0.9548928535766946,0.9388582642142017
+IL,switch,crop discontinuation,user's accuracy,22792,state,mean,0.8972673769603874,0.9410599777030123
+IL,switch,crop discontinuation,producer's accuracy,22792,state,mean,0.8459026900158825,0.9410599777030123
+IL,switch,crop introduction,user's accuracy,22712,state,mean,0.8950695949390381,0.9410599777030123
+IL,switch,crop introduction,producer's accuracy,22712,state,mean,0.8592491902846991,0.9410599777030123
+IL,no switch,crop discontinuation,user's accuracy,1331648,state,mean,0.985597762069401,0.9410599777030123
+IL,no switch,crop discontinuation,producer's accuracy,1331648,state,mean,0.9540182708376317,0.9410599777030123
+IL,no switch,crop introduction,user's accuracy,1331728,state,mean,0.9850497643254228,0.9410599777030123
+IL,no switch,crop introduction,producer's accuracy,1331728,state,mean,0.9530878110123299,0.9410599777030123
+IL,overall,crop discontinuation,user's accuracy,1354440,state,mean,0.9707412440628668,0.9410599777030123
+IL,overall,crop discontinuation,producer's accuracy,1354440,state,mean,0.9405575058427305,0.9410599777030123
+IL,overall,crop introduction,user's accuracy,1354440,state,mean,0.9702914355049379,0.9410599777030123
+IL,overall,crop introduction,producer's accuracy,1354440,state,mean,0.9394660943076524,0.9410599777030123
+IL,switch,crop discontinuation,user's accuracy,22792,state,median,0.9179244276845562,0.9410599777030123
+IL,switch,crop discontinuation,producer's accuracy,22792,state,median,0.9015444493538038,0.9410599777030123
+IL,switch,crop introduction,user's accuracy,22712,state,median,0.9070041154397284,0.9410599777030123
+IL,switch,crop introduction,producer's accuracy,22712,state,median,0.9015444493538038,0.9410599777030123
+IL,no switch,crop discontinuation,user's accuracy,1331648,state,median,0.9891683189714988,0.9410599777030123
+IL,no switch,crop discontinuation,producer's accuracy,1331648,state,median,0.9531683955836411,0.9410599777030123
+IL,no switch,crop introduction,user's accuracy,1331728,state,median,0.9888298376926666,0.9410599777030123
+IL,no switch,crop introduction,producer's accuracy,1331728,state,median,0.9500739889639734,0.9410599777030123
+IL,overall,crop discontinuation,user's accuracy,1354440,state,median,0.9888549242162786,0.9410599777030123
+IL,overall,crop discontinuation,producer's accuracy,1354440,state,median,0.9522892402251483,0.9410599777030123
+IL,overall,crop introduction,user's accuracy,1354440,state,median,0.9888298376926666,0.9410599777030123
+IL,overall,crop introduction,producer's accuracy,1354440,state,median,0.9499087395315493,0.9410599777030123
+MN,switch,crop discontinuation,user's accuracy,53466,state,mean,0.9284206501140563,0.941550946390983
+MN,switch,crop discontinuation,producer's accuracy,53466,state,mean,0.8545599999250365,0.941550946390983
+MN,switch,crop introduction,user's accuracy,51150,state,mean,0.9250806016643818,0.941550946390983
+MN,switch,crop introduction,producer's accuracy,51150,state,mean,0.860104070789552,0.941550946390983
+MN,no switch,crop discontinuation,user's accuracy,1163614,state,mean,0.9728543131789871,0.941550946390983
+MN,no switch,crop discontinuation,producer's accuracy,1163614,state,mean,0.9586811063010109,0.941550946390983
+MN,no switch,crop introduction,user's accuracy,1165930,state,mean,0.9722678262133689,0.941550946390983
+MN,no switch,crop introduction,producer's accuracy,1165930,state,mean,0.957758984389941,0.941550946390983
+MN,overall,crop discontinuation,user's accuracy,1217080,state,mean,0.933261544266975,0.941550946390983
+MN,overall,crop discontinuation,producer's accuracy,1217080,state,mean,0.9229556412654403,0.941550946390983
+MN,overall,crop introduction,user's accuracy,1217080,state,mean,0.9345551268953728,0.941550946390983
+MN,overall,crop introduction,producer's accuracy,1217080,state,mean,0.9233868023867792,0.941550946390983
+MN,switch,crop discontinuation,user's accuracy,53466,state,median,0.9383681298900569,0.941550946390983
+MN,switch,crop discontinuation,producer's accuracy,53466,state,median,0.8955382166701585,0.941550946390983
+MN,switch,crop introduction,user's accuracy,51150,state,median,0.9284349402505243,0.941550946390983
+MN,switch,crop introduction,producer's accuracy,51150,state,median,0.8928374619407768,0.941550946390983
+MN,no switch,crop discontinuation,user's accuracy,1163614,state,median,0.982877643741015,0.941550946390983
+MN,no switch,crop discontinuation,producer's accuracy,1163614,state,median,0.9676241138378459,0.941550946390983
+MN,no switch,crop introduction,user's accuracy,1165930,state,median,0.9827535521166922,0.941550946390983
+MN,no switch,crop introduction,producer's accuracy,1165930,state,median,0.9676241138378459,0.941550946390983
+MN,overall,crop discontinuation,user's accuracy,1217080,state,median,0.9814986509139144,0.941550946390983
+MN,overall,crop discontinuation,producer's accuracy,1217080,state,median,0.967434324970037,0.941550946390983
+MN,overall,crop introduction,user's accuracy,1217080,state,median,0.981449542128642,0.941550946390983
+MN,overall,crop introduction,producer's accuracy,1217080,state,median,0.9668953556951807,0.941550946390983
+IA,switch,crop discontinuation,user's accuracy,12560,state,mean,0.9002300400561853,0.9496722814040024
+IA,switch,crop discontinuation,producer's accuracy,12560,state,mean,0.8693109934610183,0.9496722814040024
+IA,switch,crop introduction,user's accuracy,16432,state,mean,0.9065168573530212,0.9496722814040024
+IA,switch,crop introduction,producer's accuracy,16432,state,mean,0.877276069207822,0.9496722814040024
+IA,no switch,crop discontinuation,user's accuracy,1417376,state,mean,0.9879476003839269,0.9496722814040024
+IA,no switch,crop discontinuation,producer's accuracy,1417376,state,mean,0.9622737861885065,0.9496722814040024
+IA,no switch,crop introduction,user's accuracy,1413504,state,mean,0.9873627708993605,0.9496722814040024
+IA,no switch,crop introduction,producer's accuracy,1413504,state,mean,0.9615586211699113,0.9496722814040024
+IA,overall,crop discontinuation,user's accuracy,1429936,state,mean,0.9801461944721123,0.9496722814040024
+IA,overall,crop discontinuation,producer's accuracy,1429936,state,mean,0.9549694698887576,0.9496722814040024
+IA,overall,crop introduction,user's accuracy,1429936,state,mean,0.977090821629295,0.9496722814040024
+IA,overall,crop introduction,producer's accuracy,1429936,state,mean,0.9519192165865618,0.9496722814040024
+IA,switch,crop discontinuation,user's accuracy,12560,state,median,0.9144927147507446,0.9496722814040024
+IA,switch,crop discontinuation,producer's accuracy,12560,state,median,0.9128020859849892,0.9496722814040024
+IA,switch,crop introduction,user's accuracy,16432,state,median,0.9146609038559628,0.9496722814040024
+IA,switch,crop introduction,producer's accuracy,16432,state,median,0.9110469846744786,0.9496722814040024
+IA,no switch,crop discontinuation,user's accuracy,1417376,state,median,0.9892254155196228,0.9496722814040024
+IA,no switch,crop discontinuation,producer's accuracy,1417376,state,median,0.9664441684507283,0.9496722814040024
+IA,no switch,crop introduction,user's accuracy,1413504,state,median,0.9892254155196228,0.9496722814040024
+IA,no switch,crop introduction,producer's accuracy,1413504,state,median,0.9664441684507283,0.9496722814040024
+IA,overall,crop discontinuation,user's accuracy,1429936,state,median,0.9892254155196228,0.9496722814040024
+IA,overall,crop discontinuation,producer's accuracy,1429936,state,median,0.9664441684507283,0.9496722814040024
+IA,overall,crop introduction,user's accuracy,1429936,state,median,0.9890767027716225,0.9496722814040024
+IA,overall,crop introduction,producer's accuracy,1429936,state,median,0.9664441684507283,0.9496722814040024
