@@ -1,0 +1,160 @@
+
+// Google Earth Engine script //
+// https://code.earthengine.google.com/ee5a72ea300e9f8de6befd22aa410c23
+
+
+// study area //
+var boundary = 
+    /* color: #d63000 */
+    /* shown: false */
+    /* displayProperties: [
+      {
+        "type": "rectangle"
+      }
+    ] */
+    ee.Geometry.Polygon(
+        [[[-125.42452133239075, 49.74574406486726],
+          [-125.42452133239075, 23.996237138773797],
+          [-66.01045883239075, 23.996237138773797],
+          [-66.01045883239075, 49.74574406486726]]], null, false)
+
+
+// helper function for data export //
+var xport = function(img, desc) {
+  Export.image.toDrive({
+  image: img,
+  description: desc,
+  folder: 'cropswitch',
+  crs: 'EPSG:4326',
+  region: boundary,
+  scale: 30,
+  skipEmptyTiles: true,
+  maxPixels: 22e9,
+});
+};
+
+
+// import CDL //
+var crops = ee.ImageCollection("USDA/NASS/CDL").select('cropland').filterDate('2008-01-01', '2022-12-31');
+
+
+// mask out areas not cultivated in every year //
+var cultivated = crops.map(function(img){
+  return img.eq(img)
+  .where(img.eq(37),0)
+  .where(img.eq(44),0)
+  .where(img.eq(59),0)
+  .where(img.eq(60),0)
+  .where(img.gte(62).and(img.lte(65)),0)
+  .where(img.eq(70),0)
+  .where(img.eq(71),0)
+  .where(img.gte(78).and(img.lte(203)),0)
+  .where(img.eq(230),0)
+  .where(img.eq(232),0);
+}).min();
+crops = crops.map(function(img){return img.mask(cultivated)});
+
+
+// noise reduction using spatial modal filter //
+var crops_raw = crops;
+var crops = crops.map(function(img){
+  return img.reduceNeighborhood({
+    reducer: ee.Reducer.mode(), 
+    kernel: ee.Kernel.circle(75, 'meters')
+  });
+});
+
+
+
+// classify crops into groups //
+
+var fields = ee.List([1, 2, 3, 4, 5, 6, 10, 11, 12, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 39, 41, 42, 43, 45, 46, 51, 52, 53, 58, 205, 224, 225, 226, 228, 234, 235, 236, 237, 238, 239, 240, 241, 254]);
+var field = ee.List.repeat(301, fields.size());
+
+var veggies = ee.List([47, 48, 49, 50, 54, 57, 206, 207, 208, 209, 213, 214, 215, 216, 219, 221, 222, 227, 229, 231, 243, 244, 245, 246, 247, 248, 249]);
+var veggie = ee.List.repeat(302, veggies.size());
+
+var berries = ee.List([55, 242, 250]);
+var berry = ee.List.repeat(303, berries.size());
+
+var trees = ee.List([56, 66, 67, 68, 69, 72, 74, 75, 76, 77, 204, 210, 211, 212, 217, 218, 220, 223]);
+var tree = ee.List.repeat(304, trees.size());
+
+var fallows = ee.List([61]);
+var fallow = ee.List.repeat(305, fallows.size());
+
+var groups = crops.map(function(img){
+  return img.remap({
+  from: fallows.cat(fields).cat(veggies).cat(berries).cat(trees),
+  to: fallow.cat(field).cat(veggie).cat(berry).cat(tree),
+  defaultValue: 0
+});
+});
+
+
+// convert collections to images //
+crops_raw = crops_raw.toBands();
+crops = crops.toBands();
+groups = groups.toBands();
+//xport(crops, "crops");
+//xport(groups, "groups");
+//xport(crops_raw, "crpraw");
+
+
+// reclassification rates //
+var reclassified = crops_raw.neq(crops).reduce('sum').add(100).toInt();
+//xport(reclassified, "reclassified");
+
+
+// identify crop switches //
+  // img: multiband image
+  // evl: band indices at which to evaluate switching
+  // ref: band indices to use as references during evaluation
+  // moving: should ref indices be moved forward for each entry in evl?
+var switching = function(img, evl, ref, moving) {
+  var yrs = ee.List.sequence(0, 14);
+  var n = ee.List.sequence(0, evl.size().subtract(1));
+  var s = n.map(function(i) {
+    var rf = ref.map(function(x) {return ee.Number(x).add(ee.Number(i).multiply(ee.Number(moving*1)))});
+    var r = img.select(yrs.slice(rf.get(0), ee.Number(rf.get(-1)).add(1)));
+    var e = img.select([yrs.get(evl.get(i))]);
+    return r.eq(e).reduce('sum').eq(0).add(1);
+  });
+  return(ee.ImageCollection(s).toBands());
+};
+//xport(switching(crops, ee.List.sequence(7, 14), ee.List.sequence(0, 6), false), "crop_introduce_fixed_8e_7r");
+//xport(switching(crops, ee.List.sequence(7, 14), ee.List.sequence(0, 6), true), "crop_introduce_moving_8e_7r");
+//xport(switching(groups, ee.List.sequence(7, 14), ee.List.sequence(0, 6), false), "group_introduce_fixed_8e_7r");
+//xport(switching(groups, ee.List.sequence(7, 14), ee.List.sequence(0, 6), true), "group_introduce_moving_8e_7r");
+//xport(switching(crops, ee.List.sequence(0, 7), ee.List.sequence(8, 14), false), "crop_abandon_fixed_8e_7r");
+//xport(switching(crops, ee.List.sequence(0, 7), ee.List.sequence(1, 7), true), "crop_abandon_moving_8e_7r");
+//xport(switching(groups, ee.List.sequence(0, 7), ee.List.sequence(8, 14), false), "group_abandon_fixed_8e_7r");
+//xport(switching(groups, ee.List.sequence(0, 7), ee.List.sequence(1, 7), true), "group_abandon_moving_8e_7r");
+
+
+// local temporal diversity //
+//xport(crops.reduce(ee.Reducer.countDistinct()), "crop_diversity_2008_2022");
+//xport(crops.slice(0, 8).reduce(ee.Reducer.countDistinct()), "crop_diversity_2008_2015");
+//xport(crops.slice(7).reduce(ee.Reducer.countDistinct()), "crop_diversity_2015_2022");
+//xport(groups.reduce(ee.Reducer.countDistinct()), "group_diversity_2008_2022");
+//xport(groups.slice(0, 8).reduce(ee.Reducer.countDistinct()), "group_diversity_2008_2015");
+//xport(groups.slice(7).reduce(ee.Reducer.countDistinct()), "group_diversity_2015_2022");
+
+
+// reclamation/abandonment, in which entire reference window is fallow // 
+var abandonment = function(img, evl, ref, moving) {
+  var yrs = ee.List.sequence(0, 14);
+  var n = ee.List.sequence(0, evl.size().subtract(1));
+  var s = n.map(function(i) {
+    var rf = ref.map(function(x) {return ee.Number(x).add(ee.Number(i).multiply(ee.Number(moving*1)))});
+    var r = img.select(yrs.slice(rf.get(0), ee.Number(rf.get(-1)).add(1)));
+    var e = img.select([yrs.get(evl.get(i))]);
+    
+    var e_nf = e.neq(61); // eval year not fallow
+    var r_af = r.eq(61).reduce('sum').eq(7); // ref years all fallow
+    return e_nf.and(r_af).add(1);
+  });
+  return(ee.ImageCollection(s).toBands());
+};
+//xport(abandonment(crops, ee.List.sequence(7, 14), ee.List.sequence(0, 6), true), "reclamation_introduce_moving_8e_7r");
+//xport(abandonment(crops, ee.List.sequence(0, 7), ee.List.sequence(1, 7), true), "reclamation_abandon_moving_8e_7r");
